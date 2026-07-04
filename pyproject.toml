@@ -1,0 +1,7 @@
+[project]
+name = "vietnam-elections-wikidata"
+version = "0.1.0"
+description = "Reconcile and create Wikidata items for Vietnamese National Assembly delegates"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
