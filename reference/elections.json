@@ -1,0 +1,34 @@
+{
+  "_comment": "Verified Wikidata identifiers per election cycle. QIDs confirmed 2026-07-04 via live SPARQL/wbsearchentities; see docs/journals/2026-07-04.01.wikidata-identifiers-verified.md. Term dates marked verified:false are carried from the plan and still need confirmation against the source bulletins.",
+  "shared": {
+    "human": "Q5",
+    "country_vietnam": "Q881",
+    "legislature": "Q1765001",
+    "position_member_na_vietnam": "Q10841192"
+  },
+  "cycles": {
+    "na15-2021": {
+      "election_event": "Q55718923",
+      "legislative_term": "Q107979136",
+      "term_start": "2021-07-20",
+      "term_end": "2026-05-22",
+      "term_dates_verified": false,
+      "provinces": 63,
+      "electoral_units": 186,
+      "seats": 500,
+      "winners_in_data": 500
+    },
+    "na16-2026": {
+      "election_event": "Q106959840",
+      "legislative_term": "Q138968785",
+      "term_start": null,
+      "term_end": null,
+      "term_dates_verified": false,
+      "provinces": 34,
+      "electoral_units": null,
+      "seats": 500,
+      "winners_in_data": null,
+      "notes": "Provinces merged 63 -> 34 effective 2025-07-01; NA seats reapportioned Dec 2025. Electoral units differ entirely from na15-2021."
+    }
+  }
+}
