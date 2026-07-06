@@ -1,0 +1,501 @@
+person_id,name,dob,wikidata_qid,match_status,match_notes
+person-72fb61a58093,Vũ Hồng Thanh,1962-04-19,,ambiguous,"name match, DOB unconfirmed: Q30921400"
+person-4ba314390d01,Nguyễn Xuân Thắng,1957-02-18,Q49054650,matched,name + DOB match via search
+person-8cfacf2f0845,Lê Minh Chuẩn,1965-04-02,,ambiguous,"name match, DOB unconfirmed: Q47506363"
+person-34c3b35e06e2,Ngô Hoàng Ngân,1966-05-25,,ambiguous,"name match, DOB unconfirmed: Q116976058"
+person-e90cd319b5d8,Đỗ Thị Lan,1967-11-17,,ambiguous,"name match, DOB unconfirmed: Q47506364"
+person-d47682fa57f2,Lương Công Quyết (Hòa thượng Thích Thanh Quyết),1962-06-15,,unmatched,no name candidates on Wikidata
+person-81b2ed6d3048,Nguyễn Thị Thu Hà,1978-02-04,,ambiguous,"pool name match, DOB unconfirmed: Q10799708"
+person-cf41da07ab1a,Trần Thị Kim Nhung,1973-02-12,Q116976114,matched,name + DOB match via search
+person-99702bbf5f39,Đặng Xuân Phong,1972-07-08,,ambiguous,"name match, DOB unconfirmed: Q47506287, Q10841615"
+person-4a6aff745af0,Lê Thị Hà (Lê Thu Hà),1968-11-26,,unmatched,no name candidates on Wikidata
+person-191bad91ad8e,Hà Đức Minh,1987-04-28,Q116946986,matched,name + DOB match via search
+person-a72d99c1bd97,Trần Cẩm Tú,1961-08-25,,ambiguous,"name match, DOB unconfirmed: Q10829281"
+person-092d4c5e5e3a,Sùng A Lềnh,1975-08-16,Q116946987,matched,name + DOB match via search
+person-452fa099631e,Nguyễn Thị Lan Anh,1981-05-18,,ambiguous,"name match, DOB unconfirmed: Q61132025, Q61129977, Q85866727"
+person-bfff39afb603,Phan Đình Trạc,1958-08-25,,ambiguous,"pool name match, DOB unconfirmed: Q10805156"
+person-abda1f507a14,Trịnh Thị Tú Anh,1980-08-17,,unmatched,no name candidates on Wikidata
+person-376b6e952e68,Nguyễn Tạo,1963-06-16,,ambiguous,"pool name match, DOB unconfirmed: Q130386977"
+person-73ab017ff448,Lâm Văn Đoan,1976-01-30,Q116205526,matched,name + DOB match via search
+person-ea879cc3958c,K’ Nhiễu,1972-07-13,,unmatched,candidates found but no name match (1 searched)
+person-9153fa6bd2a3,Nguyễn Văn Hiển,1974-02-16,,ambiguous,"pool name match, DOB unconfirmed: Q10799904, Q7023019"
+person-c0229091ae8a,Trần Đình Văn,1966-06-17,Q116784303,matched,name + DOB match via search
+person-f00e76048f7a,Nguyễn Chí Dũng,1960-08-05,Q10799005,matched,name + DOB match via search
+person-dceb2f1c9837,Hoàng Đức Thắng,1964-11-12,,ambiguous,"name match, DOB unconfirmed: Q30921761"
+person-1387516e3453,Hồ Thị Minh,1976-09-23,,unmatched,no name candidates on Wikidata
+person-ffd2157de4bc,Hà Sỹ Đồng,1964-01-18,,ambiguous,"pool name match, DOB unconfirmed: Q10770580"
+person-fd6864e6f127,Nguyễn Hữu Đàn,1974-05-28,Q116700342,matched,name + DOB match via search
+person-1a343eb1ce11,Lê Quang Tùng,1971-10-30,,ambiguous,"name match, DOB unconfirmed: Q47506391, Q6507551"
+person-ef2b94e145ab,Huỳnh Minh Tuấn,1980-10-10,,ambiguous,"name match, DOB unconfirmed: Q30922152"
+person-776f22e810f5,Hà Thị Nga,1969-02-20,,ambiguous,"name match, DOB unconfirmed: Q49054138"
+person-7a35001fa6b1,Lê Quốc Phong,1978-05-03,Q26237024,matched,name + DOB match via search
+person-3c2a1bbfee61,Nguyễn Hải Anh,1967-10-14,Q116890760,matched,name + DOB match via search
+person-712837e5013e,Nguyễn Thị Mai Hoa,1967-04-22,,ambiguous,"pool name match, DOB unconfirmed: Q10799656"
+person-38fb66aebce8,Lê Minh Hoan,1961-01-19,,ambiguous,"pool name match, DOB unconfirmed: Q16157439"
+person-09ec16fa2d35,Phạm Văn Hòa,1962-10-02,,ambiguous,"name match, DOB unconfirmed: Q47506280"
+person-fd16db910947,Trần Văn Sáu,1966-05-21,Q116890759,matched,name + DOB match via search
+person-011cabf6cfd2,Nguyễn Thị Thu Hà,1970-05-27,Q10799708,matched,name + DOB match in NA-member pool
+person-2b941bc5e2c0,Nguyễn Thành Công,1984-07-10,,ambiguous,"name match, DOB unconfirmed: Q47506333, Q124397381"
+person-58c729d0329f,Mai Khanh,1975-10-22,,ambiguous,"name match, DOB unconfirmed: Q47506335"
+person-d4ab4706d30b,Nguyễn Thị Thanh,1967-02-10,Q10799695,matched,name + DOB match in NA-member pool
+person-85368b9da35b,Đinh Việt Dũng,1972-09-10,Q116693077,matched,name + DOB match via search
+person-733e1f3d19b9,Trần Thị Hồng Thanh,1977-04-06,Q116955683,matched,name + DOB match via search
+person-c60a3bbba503,Nguyễn Hải Dũng,1967-11-11,Q116949045,matched,name + DOB match via search
+person-fff9da551a59,Lê Khánh Hải,1966-05-27,,ambiguous,"name match, DOB unconfirmed: Q97927041"
+person-294ece5b5b80,Nguyễn Thị Thúy Ngọc,1982-07-22,,unmatched,no name candidates on Wikidata
+person-fda628e82d7a,Lê Quốc Chỉnh,1968-12-01,,ambiguous,"name match, DOB unconfirmed: Q109441606"
+person-b7ead9912134,Mai Thị Phương Hoa,1971-11-25,,ambiguous,"name match, DOB unconfirmed: Q47506330"
+person-b45afbf760bf,Khương Thị Mai,1966-09-08,,unmatched,no name candidates on Wikidata
+person-3d2cdee16aa3,Võ Văn Kim (Vũ Trọng Kim),1953-03-23,,unmatched,no name candidates on Wikidata
+person-921f745fbf4e,Trần Thị Quỳnh,1993-01-23,,ambiguous,"name match, DOB unconfirmed: Q10829525"
+person-39bb794b914f,Trần Văn Lâm,1970-01-27,,ambiguous,"name match, DOB unconfirmed: Q5083022, Q111510957"
+person-d4cd86bef295,Leo Thị Lịch,1969-09-23,,ambiguous,"name match, DOB unconfirmed: Q30921843"
+person-0483aee6100f,Nguyễn Văn Thi,1968-04-11,,unmatched,candidates found but no name match (13 searched)
+person-ab45ce898c52,Nguyễn Hòa Bình,1958-05-24,Q10799132,matched,name + DOB match in NA-member pool
+person-aa25178cac85,Dương Văn Thái,1970-07-22,,ambiguous,"multiple name+DOB matches: Q86006845, Q86006843"
+person-cb2abef0c72e,Đỗ Thị Việt Hà,1978-07-29,Q116859368,matched,name + DOB match via search
+person-d40f3b3a0c19,Nguyễn Thị Thúy Ngần,1972-01-20,Q116729648,matched,name + DOB match via search
+person-a9276db99138,Trần Văn Tuấn,1970-06-03,,ambiguous,"pool name match, DOB unconfirmed: Q10829633"
+person-0b4d6f1b03e2,Phạm Văn Thịnh,1981-12-13,Q116775732,matched,name + DOB match via search
+person-3475dc8e32e8,Nguyễn Trường Giang,1971-08-07,,ambiguous,"name match, DOB unconfirmed: Q30922103, Q89422432"
+person-da850fb8b3ab,Dương Khắc Mai (Dương Ngọc Mai),1969-06-09,,unmatched,no name candidates on Wikidata
+person-d345c73ad148,Trần Thị Thu Hằng,1982-03-11,,ambiguous,"name match, DOB unconfirmed: Q89728678"
+person-f5035869a3cc,Ngô Thanh Danh,1965-10-20,,ambiguous,"name match, DOB unconfirmed: Q30922077"
+person-03ac509f9ef6,Phạm Nam Tiến,1968-11-01,Q116880055,matched,name + DOB match via search
+person-5c41f97478c9,Phạm Thị Kiều,1981-10-20,,unmatched,no name candidates on Wikidata
+person-6c67c1f1b13f,Hoàng Thị Thúy Lan,1966-05-06,,ambiguous,"name match, DOB unconfirmed: Q24957812"
+person-2949d4901655,Bùi Thanh Sơn,1962-10-16,,ambiguous,"name match, DOB unconfirmed: Q30921853"
+person-32c858d6ce80,Trần Văn Tiến,1962-05-05,,unmatched,no name candidates on Wikidata
+person-8bbacd621001,Nguyễn Văn Mạnh,1978-04-15,Q117023329,matched,name + DOB match via search
+person-ba9cbeb73612,Thái Quỳnh Mai Dung,1977-05-15,Q117023344,matched,name + DOB match via search
+person-51b8457c0ff6,Lê Tất Hiếu,1966-08-01,,ambiguous,"name match, DOB unconfirmed: Q61130675"
+person-fa61bed01c15,Phạm Minh Chính,1958-12-10,Q10806940,matched,name + DOB match via search
+person-81c6d5c17701,Nguyễn Văn Thuận,1965-12-08,,ambiguous,"pool name match, DOB unconfirmed: Q10799983"
+person-a59f6ce101d3,Đào Chí Nghĩa,1982-06-12,,ambiguous,"name match, DOB unconfirmed: Q118251030"
+person-c8e6d59f4687,Lê Quang Mạnh,1974-04-14,Q65171363,matched,name + DOB match via search
+person-cb3faca6947d,Trương Thị Ngọc Ánh,1966-10-10,,ambiguous,"name match, DOB unconfirmed: Q109442141, Q118250897"
+person-c3bb9bca8d77,Nguyễn Thanh Phương,1965-04-03,,ambiguous,"pool name match, DOB unconfirmed: Q10799494"
+person-3fd32e0e8fc8,Nguyễn Mạnh Hùng,1975-07-15,Q116850650,matched,name + DOB match via search
+person-26eced14feb6,Nguyễn Phương Tuấn,1975-03-20,,ambiguous,"name match, DOB unconfirmed: Q47506336"
+person-bf0cb8c82b94,Châu Quỳnh Dao,1977-05-18,,ambiguous,"name match, DOB unconfirmed: Q47506307"
+person-d3aa68dd45b8,Lê Thành Long,1963-09-23,,ambiguous,"pool name match, DOB unconfirmed: Q10787813"
+person-2e2d29509887,Nguyễn Thị Kim Bé,1968-09-10,,ambiguous,"pool name match, DOB unconfirmed: Q10799634"
+person-ba4f4c3d41e1,Nguyễn Việt Thắng,1972-03-13,,ambiguous,"name match, DOB unconfirmed: Q7023058, Q30924034, Q130044724"
+person-ff956b428900,Đỗ Thanh Bình,1967-03-15,,ambiguous,"name match, DOB unconfirmed: Q97162445"
+person-c6c73653c47f,Lý Anh Thư,1976-05-05,,unmatched,no name candidates on Wikidata
+person-701ec51d6f76,Nguyễn Danh Tú,1981-10-16,Q116938007,matched,name + DOB match via search
+person-8b24c0b4b7ae,Giàng Páo Mỷ,1963-12-22,,ambiguous,"name match, DOB unconfirmed: Q47506315"
+person-bc57fd7e2f7c,Nguyễn Hữu Toàn,1968-10-30,,ambiguous,"name match, DOB unconfirmed: Q47506313, Q124310174"
+person-7ebf70495f70,Tao Văn Giót,1990-08-16,,unmatched,no name candidates on Wikidata
+person-5140b96e745d,Hoàng Văn Bình (Hoàng Thanh Bình),1970-11-30,,unmatched,no name candidates on Wikidata
+person-74aee8a4c6db,Hoàng Quốc Khánh,1974-09-30,Q116941779,matched,name + DOB match via search
+person-31e392692acf,Trần Hồng Minh,1967-11-04,,ambiguous,"name match, DOB unconfirmed: Q20026217"
+person-f9ade70d0db6,Nguyễn Văn Hùng,1961-04-20,,ambiguous,"pool name match, DOB unconfirmed: Q10799911"
+person-959568c82120,Phạm Đình Thanh,1967-09-10,Q116941482,matched,name + DOB match via search
+person-eee304557141,Nàng Xô Vi,1996-02-11,,unmatched,no name candidates on Wikidata
+person-26c368059070,Trần Thị Thu Phước,1976-10-20,Q116941512,matched,name + DOB match via search
+person-4fa6ed1c93ce,Tô Văn Tám,1963-10-10,,ambiguous,"pool name match, DOB unconfirmed: Q10831212"
+person-a7688fad5657,U Huấn,1980-01-22,,ambiguous,"name match, DOB unconfirmed: Q109672424"
+person-b5adc7f92454,Trần Thanh Mẫn,1962-08-12,Q10829474,matched,name + DOB match in NA-member pool
+person-371e63ff1487,Nguyễn Văn Quân,1980-03-08,Q135319530,matched,name + DOB match via search
+person-28d3253ec117,Thái Thu Xương,1975-12-31,Q132531130,matched,name + DOB match via search
+person-f72bbb9cd903,Lê Tiến Châu,1969-10-05,Q61128959,matched,name + DOB match via search
+person-6b5363701689,Lê Thị Thanh Lam,1974-11-30,Q132600480,matched,name + DOB match via search
+person-24ea44f02f96,Lê Minh Nam,1975-02-28,Q127630941,matched,name + DOB match via search
+person-581b2f2abf8e,Nguyễn Hữu Đông,1972-09-20,,ambiguous,"pool name match, DOB unconfirmed: Q10799203"
+person-0106d446b05a,Hoàng Thị Đôi,1977-06-04,Q116979918,matched,name + DOB match via search
+person-81f10e7a4c05,Lò Việt Phương,1973-06-17,Q116748775,matched,name + DOB match via search
+person-f5f331d04fe8,Quàng Văn Hương,1969-07-03,,ambiguous,"name match, DOB unconfirmed: Q47506367"
+person-1807c8bad951,Chá A Của,1974-11-14,Q116226109,matched,name + DOB match via search
+person-9e31421f44a9,Đinh Công Sỹ,1979-11-25,,ambiguous,"pool name match, DOB unconfirmed: Q10840090"
+person-247f65513874,Vi Đức Thọ,1976-11-22,Q116777857,matched,name + DOB match via search
+person-3da19c45f824,Nguyễn Anh Tuấn,1979-11-26,Q30924053,matched,name + DOB match via search
+person-ee81bf561362,Vũ Hải Quân,1974-08-01,,ambiguous,"name match, DOB unconfirmed: Q109440061"
+person-bf29c18a30c8,Nguyễn Thanh Sang,1969-10-09,,ambiguous,"name match, DOB unconfirmed: Q20026001"
+person-126db4673878,Trần Kim Yến,1969-08-03,,ambiguous,"name match, DOB unconfirmed: Q30921328"
+person-7d1e652d3471,Nguyễn Sỹ Quang,1970-02-01,,ambiguous,"name match, DOB unconfirmed: Q118251322"
+person-b099d979ecd9,Đỗ Đức Hiển,1977-09-14,Q116844673,matched,name + DOB match via search
+person-090c9521a346,Nguyễn Tri Thức,1973-09-16,Q108164910,matched,name + DOB match in NA-member pool
+person-43250cdda068,Lê Minh Trí,1960-11-01,Q16480107,matched,name + DOB match via search
+person-97361cf901c7,Lê Thanh Phong,1967-10-06,,ambiguous,"pool name match, DOB unconfirmed: Q10787816"
+person-0a53a1ce07e3,Văn Thị Bạch Tuyết,1976-06-16,,ambiguous,"name match, DOB unconfirmed: Q30921330"
+person-1b90489a6deb,Trần Hoàng Ngân,1964-10-26,,ambiguous,"pool name match, DOB unconfirmed: Q10829301"
+person-bbee9c8262d9,Nguyễn Thị Hồng Hạnh,1974-01-11,,ambiguous,"name match, DOB unconfirmed: Q85866722"
+person-26d8b03c9ccd,Nguyễn Minh Đức,1969-07-19,,ambiguous,"name match, DOB unconfirmed: Q10527507, Q30923952, Q20025980, Q100542645, Q94518618, Q96640356"
+person-ec3b0b9ac0cb,Trần Anh Tuấn,1974-07-02,,ambiguous,"name match, DOB unconfirmed: Q47506274, Q16611818, Q61813779"
+person-95e30304160b,Trần Thị Diệu Thúy,1977-03-08,,ambiguous,"pool name match, DOB unconfirmed: Q10829504"
+person-b88aca311e05,Nguyễn Thiện Nhân,1953-06-12,Q7022980,matched,name + DOB match in NA-member pool
+person-0e57ac001720,Dương Ngọc Hải,1967-02-03,,ambiguous,"name match, DOB unconfirmed: Q30923886, Q16542659"
+person-efeb1ed0c737,Hà Phước Thắng,1976-03-26,Q116844801,matched,name + DOB match via search
+person-7edb8b6c862d,Phạm Khánh Phong Lan,1970-05-17,Q10806932,matched,name + DOB match in NA-member pool
+person-3810e524825f,Phan Thị Thanh Phương,1984-02-29,Q116755400,matched,name + DOB match via search
+person-e6137a0cdf14,Nguyễn Minh Hoàng,1960-05-16,,ambiguous,"name match, DOB unconfirmed: Q10799277, Q30923954"
+person-26f1dccddc65,Tô Thị Bích Châu,1969-06-01,,ambiguous,"name match, DOB unconfirmed: Q30921323"
+person-6fe7c202a66c,Đặng Văn Lẫm,1968-10-18,Q116691801,matched,name + DOB match via search
+person-a2f03e017f50,Trương Trọng Nghĩa,1953-02-28,Q10828749,matched,name + DOB match in NA-member pool
+person-6a18d21a02da,Trần Lưu Quang,1967-08-30,Q10829370,matched,name + DOB match via search
+person-dc903462607a,Dương Văn Thăng,1969-03-08,Q65164388,matched,name + DOB match via search
+person-ed21f999d7ea,Nguyễn Trần Phượng Trân,1976-01-28,Q116847509,matched,name + DOB match via search
+person-4ad18a061e5b,Nguyễn Xuân Phúc,1954-07-20,Q10800073,matched,name + DOB match in NA-member pool
+person-a5140b94bbc2,Nguyễn Thị Lệ,1967-09-26,Q65172108,matched,name + DOB match via search
+person-cbcc44cb3542,Phan Văn Xựng,1967-03-07,,unmatched,candidates found but no name match (1 searched)
+person-ff5e8ac87d7d,Châu Ngọc Tuấn,1970-12-28,,ambiguous,"name match, DOB unconfirmed: Q109441616"
+person-3cdb6a5201ae,Đinh Ngọc Quý,1973-02-20,Q116894193,matched,name + DOB match via search
+person-a37db7105189,Rơ Châm H′Phik,1979-02-15,,unmatched,no name candidates on Wikidata
+person-597956f3bfae,Nguyễn Thị Mai Phương,1970-08-10,Q30921917,matched,name + DOB match via search
+person-19d68d03ff79,Đinh Văn Thê,1975-04-30,Q116813883,matched,name + DOB match via search
+person-93dd006a6990,Y Thanh Hà Niê Kđăm,1973-12-23,,ambiguous,"name match, DOB unconfirmed: Q65172375"
+person-59f22c7edc87,Lê Hoàng Anh,1973-07-30,Q116894412,matched,name + DOB match via search
+person-62f6cb29fa99,Siu Hương,1983-08-16,Q49056026,matched,name + DOB match via search
+person-288d892fafdc,Nguyễn Công Hoàng,1974-11-26,Q116982967,matched,name + DOB match via search
+person-b60086ecc471,Lý Văn Huấn,1971-10-13,,ambiguous,"name match, DOB unconfirmed: Q61131865"
+person-03d90edf2989,Phan Văn Giang,1960-10-14,,ambiguous,"pool name match, DOB unconfirmed: Q20026119"
+person-59b7154e702a,Đoàn Thị Hảo,1966-12-28,,ambiguous,"name match, DOB unconfirmed: Q30921730"
+person-018f33f0c2ef,Nguyễn Lâm Thành,1964-07-07,,ambiguous,"pool name match, DOB unconfirmed: Q10799262"
+person-81a4cec15baa,Nguyễn Thanh Hải,1970-10-02,Q10799486,matched,name + DOB match in NA-member pool
+person-9fa28d767d0e,Hoàng Anh Công,1971-03-28,Q116149098,matched,name + DOB match via search
+person-41b3e1601259,Trần Tuấn Anh,1964-04-06,Q24954814,matched,name + DOB match via search
+person-fc985555dfd8,Lê Xuân Thân,1961-05-02,,ambiguous,"pool name match, DOB unconfirmed: Q10787962"
+person-6a9726ccab11,Hà Quốc Trị,1969-02-18,Q116783514,matched,name + DOB match via search
+person-b4d2b1b37b56,Đỗ Ngọc Thịnh,1960-01-10,,ambiguous,"name match, DOB unconfirmed: Q30921928"
+person-679600f8fca9,Trần Ngọc Khánh,1964-11-14,,ambiguous,"name match, DOB unconfirmed: Q30920689"
+person-8e8f296d36af,Lê Hữu Trí,1968-02-13,Q116924371,matched,name + DOB match via search
+person-11a9f75309c1,Hà Hồng Hạnh,1976-11-18,Q116924372,matched,name + DOB match via search
+person-b3ee2fbef5fa,Đào Hồng Lan,1971-07-23,,ambiguous,"name match, DOB unconfirmed: Q49081097"
+person-aeb1c1d406d0,Nguyễn Ngọc Bảo,1967-06-16,,ambiguous,"name match, DOB unconfirmed: Q30924029"
+person-5e601fc58596,Trần Quốc Tỏ,1962-01-28,Q16158905,matched,name + DOB match via search
+person-d26a526f629d,Trần Thị Vân,1975-02-22,Q116860552,matched,name + DOB match via search
+person-484b0cc80246,Nguyễn Thị Hà,1990-12-29,,ambiguous,"name match, DOB unconfirmed: Q30921995, Q61128775, Q140010067"
+person-a3d13b223a9d,Nguyễn Như So,1957-08-23,,ambiguous,"name match, DOB unconfirmed: Q30921827"
+person-5d44dc7cd5c0,Nguyễn Thị Kim Anh,1973-03-11,Q116866289,matched,name + DOB match via search
+person-45bbe7f24148,Đặng Quốc Khánh,1976-09-02,,ambiguous,"name match, DOB unconfirmed: Q25418084, Q25417849, Q64785684"
+person-5d3f660d3bba,Phạm Thúy Chinh,1970-01-15,Q115863390,matched,name + DOB match via search
+person-61f178597cac,Vương Thị Hương,1988-09-28,,unmatched,no name candidates on Wikidata
+person-eb886f805e80,Hoàng Ngọc Định,1973-12-22,Q116813880,matched,name + DOB match via search
+person-7a74fa19862f,Tráng A Dương,1977-04-24,Q116896478,matched,name + DOB match via search
+person-22d6176d952e,Lý Thị Lan,1974-09-12,Q116896480,matched,name + DOB match via search
+person-9ed85f9357db,Chẩu Văn Lâm,1967-04-16,,ambiguous,"name match, DOB unconfirmed: Q30921973"
+person-1494dc37e1b5,Nguyễn Việt Hà,1985-12-03,,ambiguous,"name match, DOB unconfirmed: Q18459941, Q61100333"
+person-f2f745d0b141,Lò Thị Việt Hà,1977-11-15,Q117021261,matched,name + DOB match via search
+person-61bf5afe3ebc,Âu Thị Mai,1978-03-25,,unmatched,no name candidates on Wikidata
+person-d362e047f87d,Nguyễn Đắc Vinh,1972-11-25,Q10800157,matched,name + DOB match in NA-member pool
+person-85c5f4594b62,Ma Thị Thúy,1978-10-03,,ambiguous,"name match, DOB unconfirmed: Q30921967"
+person-ae4ca6655d6b,Phan Văn Mãi,1973-02-25,,ambiguous,"name match, DOB unconfirmed: Q24958694"
+person-6363c4cb1daf,Đặng Thuần Phong,1964-07-08,,ambiguous,"name match, DOB unconfirmed: Q30921582"
+person-fd248851ae2e,Trần Thị Thanh Lam,1979-09-29,,unmatched,no name candidates on Wikidata
+person-f7642777ea86,Võ Văn Hội,1971-04-25,Q116728261,matched,name + DOB match via search
+person-e6d9d1cd4f15,Nguyễn Trúc Sơn,1971-06-08,Q116738553,matched,name + DOB match via search
+person-a24acb26aca7,Nguyễn Thị Yến Nhi,1980-06-07,Q116735172,matched,name + DOB match via search
+person-541458f7b6c4,Nguyễn Thị Lệ Thủy,1968-01-31,,ambiguous,"name match, DOB unconfirmed: Q30921867"
+person-a429b22e3a29,Nguyễn Phú Trọng,1944-04-14,Q318458,matched,name + DOB match in NA-member pool
+person-824d5686045d,Nguyễn Quốc Duyệt,1968-04-08,Q65163337,matched,name + DOB match via search
+person-cb30b3f9e84d,Nguyễn Trúc Anh,1974-11-28,Q116822545,matched,name + DOB match via search
+person-448e76826a18,Nguyễn Hữu Chính,1963-11-07,,ambiguous,"name match, DOB unconfirmed: Q10799155, Q30923976, Q6672778"
+person-7317b423cb6b,Bùi Huyền Mai,1975-09-03,,unmatched,no name candidates on Wikidata
+person-191cd7d53c45,Trương Xuân Cừ,1960-10-05,,unmatched,candidates found but no name match (1 searched)
+person-4dff315c331d,Nguyễn Phi Thường,1971-05-07,,ambiguous,"pool name match, DOB unconfirmed: Q10799382"
+person-f30aed0f2cb3,Nguyễn Ngọc Tuấn,1966-09-24,Q126811570,matched,name + DOB match via search
+person-bd908524c841,Dương Minh Ánh,1975-09-01,,ambiguous,"name match, DOB unconfirmed: Q24959119"
+person-af7c8040a73a,Đinh Tiến Dũng,1961-05-10,,ambiguous,"name match, DOB unconfirmed: Q10840142, Q10752078"
+person-fdd6c0b120d3,Đặng Minh Châu (Hòa thượng Thích Bảo Nghiêm),1956-12-27,,unmatched,no name candidates on Wikidata
+person-7debdf1a07c0,Vũ Thị Lưu Mai,1972-08-22,,ambiguous,"name match, DOB unconfirmed: Q30921502"
+person-26316c521155,Vũ Tiến Lộc,1960-01-01,Q10833913,matched,name + DOB match in NA-member pool
+person-e6bafa82f36d,Bùi Hoài Sơn,1975-10-24,Q116847060,matched,name + DOB match via search
+person-0311fa69f204,Nguyễn Hải Trung,1968-10-06,,ambiguous,"name match, DOB unconfirmed: Q61131145"
+person-8ce51438b513,Đỗ Đức Hồng Hà,1969-08-30,,ambiguous,"name match, DOB unconfirmed: Q30921480"
+person-c3b24a92704c,Nguyễn Kim Sơn,1966-11-18,,ambiguous,"pool name match, DOB unconfirmed: Q10799246"
+person-7ad873c3368e,Phạm Đức Ấn,1970-02-01,Q115861569,matched,name + DOB match via search
+person-b13f5ac519b5,Phạm Thị Thanh Mai,1975-11-03,Q116834094,matched,name + DOB match via search
+person-701e3f237fdc,Trần Việt Anh,1975-10-22,,ambiguous,"name match, DOB unconfirmed: Q116825814"
+person-ae3114408ee1,Trần Thị Nhị Hà,1973-11-25,Q116823004,matched,name + DOB match via search
+person-5336b648e589,Khuất Việt Dũng,1959-01-31,,ambiguous,"name match, DOB unconfirmed: Q20025821"
+person-381ebff74c3d,Nguyễn Thị Lan,1974-05-10,,ambiguous,"pool name match, DOB unconfirmed: Q10799644"
+person-0bb97831b9cf,Lê Nhật Thành,1975-08-07,Q116813881,matched,name + DOB match via search
+person-51251be53e75,Tạ Đình Thi,1973-09-24,Q116770957,matched,name + DOB match via search
+person-098e72b97b92,Nguyễn Phương Thủy,1974-09-18,Q116783425,matched,name + DOB match via search
+person-11a9b585d807,Nguyễn Tuấn Thịnh,1971-04-22,,unmatched,no name candidates on Wikidata
+person-a698afae2ce1,Hoàng Văn Cường,1963-01-01,,ambiguous,"name match, DOB unconfirmed: Q10771217, Q30923901"
+person-d66ab231f5a5,Nguyễn Anh Trí,1957-09-14,,ambiguous,"name match, DOB unconfirmed: Q30920721"
+person-c53dd6a180f1,Nguyễn Thúy Anh,1963-12-07,Q10799565,matched,name + DOB match in NA-member pool
+person-a80b448db8bc,Cầm Hà Chung,1975-10-23,Q116959524,matched,name + DOB match via search
+person-7ed7c1a3f0d9,Hà Ánh Phượng,1991-11-03,,unmatched,no name candidates on Wikidata
+person-c82b5012c984,Nguyễn Đăng Khải,1966-09-02,,ambiguous,"name match, DOB unconfirmed: Q135880354"
+person-e6991323a879,Nguyễn Thành Nam,1966-08-13,,ambiguous,"pool name match, DOB unconfirmed: Q10799490"
+person-2483601c9ee8,Bùi Minh Châu,1961-10-25,,ambiguous,"name match, DOB unconfirmed: Q47506344"
+person-e06b60c4e8ef,Vũ Tuấn Anh,1969-11-08,Q116959581,matched,name + DOB match via search
+person-73ba341eccd5,Bùi Văn Nghiêm,1966-11-18,Q65174425,matched,name + DOB match via search
+person-d5a8ae369a0c,Nguyễn Thị Minh Trang,1979-05-16,,ambiguous,"name match, DOB unconfirmed: Q30921952"
+person-943628a4a896,Trịnh Minh Bình,1977-08-22,,unmatched,no name candidates on Wikidata
+person-82ef8a2789ee,Nguyễn Thanh Long,1966-09-03,Q24957446,matched,name + DOB match via search
+person-bdc6ae8be0e9,Nguyễn Thị Quyên Thanh,1978-10-19,,unmatched,no name candidates on Wikidata
+person-9e2b7bfa9478,Nguyễn Thanh Phong,1976-05-21,,ambiguous,"pool name match, DOB unconfirmed: Q10799539"
+person-375a2d8b0b4e,Lê Tấn Tới,1969-04-04,,ambiguous,"name match, DOB unconfirmed: Q30921860"
+person-21033d4b40ed,Trần Quốc Quân,1987-10-02,,unmatched,no name candidates on Wikidata
+person-a251fbbc09bc,Phan Thị Mỹ Dung,1974-11-28,,ambiguous,"name match, DOB unconfirmed: Q47506327"
+person-2a28c0679e9e,Nguyễn Thanh Hải,1972-11-30,,ambiguous,"pool name match, DOB unconfirmed: Q10799486"
+person-68ef5867a16e,Nguyễn Tuấn Anh,1975-08-11,,ambiguous,"name match, DOB unconfirmed: Q16158166, Q10834328, Q47506299, Q30924038, Q86010547, Q91411762, Q96129950, Q94525461"
+person-7ec748f9b4b0,Nguyễn Hoàng Uyên,1976-06-24,,unmatched,no name candidates on Wikidata
+person-c4036c91523d,Hoàng Văn Liên,1965-08-19,,ambiguous,"name match, DOB unconfirmed: Q47506328"
+person-b911b4c2635a,Lê Thị Song An,1977-10-11,,ambiguous,"name match, DOB unconfirmed: Q118250874"
+person-58978587e6f1,Nguyễn Văn Danh,1962-07-12,,ambiguous,"name match, DOB unconfirmed: Q248849, Q25417949, Q86010559, Q30921699"
+person-099b38e0f0bd,Nguyễn Kim Tuyến,1977-12-10,,ambiguous,"name match, DOB unconfirmed: Q10800612, Q30922047"
+person-487e338b8e02,Nguyễn Thanh Cầm,1975-08-11,Q117007119,matched,name + DOB match via search
+person-7aa408dbe500,Nguyễn Văn Dương,1967-12-03,,ambiguous,"name match, DOB unconfirmed: Q49054454, Q107304730"
+person-51075593f141,Nguyễn Hoàng Mai,1965-05-03,,ambiguous,"name match, DOB unconfirmed: Q30922053"
+person-3a1c990d944d,Tạ Minh Tâm,1978-11-07,,ambiguous,"name match, DOB unconfirmed: Q10831489, Q30924069"
+person-0404924e5e09,Nguyễn Thị Uyên Trang,1982-08-31,Q117007128,matched,name + DOB match via search
+person-27e8c6703106,Nguyễn Minh Sơn,1972-02-21,Q30922041,matched,name + DOB match via search
+person-50846a98640d,Bùi Văn Cường,1965-06-18,,ambiguous,"pool name match, DOB unconfirmed: Q10742852"
+person-9bc5ce401f48,Lê Văn Hiệu,1967-08-02,Q116789010,matched,name + DOB match via search
+person-2823b78fbb4d,Triệu Thế Hùng,1971-08-14,,ambiguous,"name match, DOB unconfirmed: Q47506322"
+person-c4546a1aac07,Nguyễn Thị Mai Thoa,1974-07-05,Q116910303,matched,name + DOB match via search
+person-6e96155f2fb5,Đinh Thị Ngọc Dung,1985-11-26,,unmatched,no name candidates on Wikidata
+person-dedc4bcc6924,Nguyễn Ngọc Sơn,1975-05-25,Q116921399,matched,name + DOB match via search
+person-3cdc87d51d03,Nguyễn Thị Việt Nga,1976-09-29,,ambiguous,"name match, DOB unconfirmed: Q47506289"
+person-b577d3510a36,Nguyễn Hải Hưng,1966-03-22,,ambiguous,"name match, DOB unconfirmed: Q47506288"
+person-b3fe054ca79c,Bùi Sỹ Hoàn,1975-08-08,Q116921401,matched,name + DOB match via search
+person-e74b09e84f09,Nguyễn Tiến Thiện (Thượng tọa Thích Đức Thiện),1966-04-05,,unmatched,no name candidates on Wikidata
+person-b313e66149d4,Nguyễn Văn Thắng,1973-09-12,Q49054660,matched,name + DOB match in NA-member pool
+person-c6ea60fabf24,Quàng Thị Nguyệt,1997-11-01,,unmatched,no name candidates on Wikidata
+person-e2de3faf858b,Tráng A Tủa,1966-12-06,Q131987611,matched,name + DOB match via search
+person-087fc0136999,Lò Thị Luyến,1974-02-02,,unmatched,no name candidates on Wikidata
+person-620be9cbf85a,Tạ Thị Yên,1972-11-18,Q116806454,matched,name + DOB match via search
+person-0ba462f01fcf,Trần Quang Minh,1976-11-25,,ambiguous,"name match, DOB unconfirmed: Q61128947, Q86012447"
+person-18d386967ecc,Nguyễn Tiến Nam,1967-10-26,Q116970186,matched,name + DOB match via search
+person-81bdf896670d,Nguyễn Thị Tuyết Nga,1971-04-26,,ambiguous,"pool name match, DOB unconfirmed: Q10799726"
+person-8809a497a90f,Vũ Đại Thắng,1975-10-04,Q61130245,matched,name + DOB match via search
+person-e3c8b79d7bac,Nguyễn Mạnh Cường,1967-01-14,,ambiguous,"name match, DOB unconfirmed: Q10799294, Q30923937, Q124719303, Q135103116, Q80826490"
+person-8405ce89d413,Nguyễn Minh Tâm,1972-03-19,Q116970249,matched,name + DOB match via search
+person-8f4edde7baed,Hoàng Minh Hiếu,1976-08-17,Q116949088,matched,name + DOB match via search
+person-a61c274a07ef,Trần Nhật Minh,1970-04-09,,ambiguous,"name match, DOB unconfirmed: Q124713979"
+person-ffb7812b4c43,Vi Văn Sơn,1973-09-15,Q116955663,matched,name + DOB match via search
+person-8ae901d0aa57,Đặng Xuân Phương,1974-11-25,,ambiguous,"name match, DOB unconfirmed: Q30922070"
+person-e54c4342467b,Trần Đức Thuận,1968-09-20,Q107016076,matched,name + DOB match via search
+person-d8ea7d80eafb,Phạm Phú Bình,1973-03-12,Q116956202,matched,name + DOB match via search
+person-4c1ff8c27b40,Thái Thị An Chung,1973-11-10,,ambiguous,"pool name match, DOB unconfirmed: Q10825772"
+person-cbd3288cc87c,Hoàng Thị Thu Hiền,1975-11-10,,unmatched,no name candidates on Wikidata
+person-4d5118d98b29,Thái Thanh Quý,1976-04-19,Q61131730,matched,name + DOB match via search
+person-24aa72d3dada,Đỗ Văn Chiến,1962-11-10,Q10842188,matched,name + DOB match in NA-member pool
+person-fa6235209ebb,Thái Văn Thành,1969-01-10,Q116956044,matched,name + DOB match via search
+person-c357b9f579a5,Nguyễn Vân Chi,1966-09-17,,ambiguous,"pool name match, DOB unconfirmed: Q10799877"
+person-c36d8f6b39d8,Võ Thị Minh Sinh,1970-12-15,Q116767989,matched,name + DOB match via search
+person-092d07378f92,Võ Thị Ánh Xuân,1970-01-08,Q24957799,matched,name + DOB match via search
+person-29950c98d8f3,Trình Lam Sinh,1972-01-01,Q116857347,matched,name + DOB match via search
+person-e0f13fb7d207,Nguyễn Văn Thạnh (Lâm),1972-08-20,,unmatched,no name candidates on Wikidata
+person-d8a28ef0c36c,Trần Thị Thanh Hương,1971-01-19,Q116796525,matched,name + DOB match via search
+person-a538af87103c,Hoàng Hữu Chiến,1966-10-01,Q133874602,matched,name + DOB match in NA-member pool
+person-e0fd32e1d792,Lương Quốc Đoàn,1970-12-21,,ambiguous,"name match, DOB unconfirmed: Q109438997"
+person-b3b0a9fa84b8,Đôn Tuấn Phong,1970-07-27,Q30921742,matched,name + DOB match via search
+person-d818a8e6e7b7,Phan Huỳnh Sơn,1963-01-01,,ambiguous,"name match, DOB unconfirmed: Q30921745"
+person-2a45b07b48e9,Chau Chắc,1971-05-06,,unmatched,no name candidates on Wikidata
+person-10c498d8f713,Đỗ Đức Duy,1970-05-20,,ambiguous,"name match, DOB unconfirmed: Q30921991"
+person-2177f85f4343,Nguyễn Thành Trung,1982-10-26,Q117023362,matched,name + DOB match via search
+person-21adf6dfdae4,Triệu Thị Huyền,1992-03-23,,ambiguous,"name match, DOB unconfirmed: Q24959158"
+person-112faf40a3d8,Phạm Thị Thanh Trà,1964-01-21,Q24958645,matched,name + DOB match via search
+person-98b227d46627,Nguyễn Quốc Luận,1975-10-29,Q117023369,matched,name + DOB match via search
+person-016906b5d4d3,Khang Thị Mào,1986-09-05,,unmatched,no name candidates on Wikidata
+person-6e77584be8cb,Lê Kim Toàn,1965-05-05,,ambiguous,"pool name match, DOB unconfirmed: Q10787700"
+person-8040275019e4,Hồ Đức Phớc,1963-11-01,,ambiguous,"pool name match, DOB unconfirmed: Q16157242"
+person-1d4305a75bbe,Nguyễn Thị Thu Thủy,1976-08-07,,ambiguous,"pool name match, DOB unconfirmed: Q10799712"
+person-76c3c32148f1,Nguyễn Văn Cảnh,1977-12-07,,ambiguous,"name match, DOB unconfirmed: Q114831379, Q10793859, Q30923915"
+person-635090d1bec5,Đồng Ngọc Ba,1972-09-01,Q116868864,matched,name + DOB match via search
+person-7728e034679c,Nguyễn Lân Hiếu,1972-09-14,Q20025976,matched,name + DOB match via search
+person-2c6040860c8f,Lý Tiết Hạnh,1972-10-30,,ambiguous,"name match, DOB unconfirmed: Q30921873"
+person-3d04eca733e4,Lê Quân,1974-08-13,,ambiguous,"name match, DOB unconfirmed: Q30921476, Q90725181"
+person-71fd02aa8b30,Lê Thanh Vân,1964-12-23,,ambiguous,"pool name match, DOB unconfirmed: Q10787819"
+person-64ba6ae04ef9,Lê Mạnh Hùng,1973-10-24,,ambiguous,"pool name match, DOB unconfirmed: Q10787743"
+person-42b64f61d814,Dương Thanh Bình (Dương Hoàng Du),1961-08-08,,unmatched,no name candidates on Wikidata
+person-f138993ca4a9,Nguyễn Duy Thanh,1983-03-12,,unmatched,no name candidates on Wikidata
+person-d5cd3ca624e3,Nguyễn Quốc Hận,1965-02-17,,ambiguous,"name match, DOB unconfirmed: Q30921706"
+person-94a6f7fa305a,Đinh Ngọc Minh,1967-05-03,,unmatched,no name candidates on Wikidata
+person-26d693f228a2,Nguyễn Văn Hận,1971-08-19,,ambiguous,"name match, DOB unconfirmed: Q118250009, Q136434361"
+person-4b2ad87ca2ad,Lữ Văn Hùng,1963-01-01,Q49054386,matched,name + DOB match via search
+person-07e204a4a205,Trần Thị Thu Đông,1969-10-24,Q126407637,matched,name + DOB match via search
+person-d35a7230250b,Trần Thị Hoa Ry,1976-04-11,Q7833321,matched,name + DOB match in NA-member pool
+person-d5a45f133c78,Nguyễn Huy Thái (Y Lan),1968-03-13,,unmatched,no name candidates on Wikidata
+person-177102804431,Lê Thị Ngọc Linh,1982-07-22,,unmatched,no name candidates on Wikidata
+person-a78911b860e7,Hoàng Đức Chính,1981-05-16,Q116921404,matched,name + DOB match via search
+person-a5cf98282e76,Ngô Văn Tuấn,1971-08-02,,ambiguous,"name match, DOB unconfirmed: Q109435466"
+person-a2568eeee9d0,Nguyễn Thị Phú Hà,1972-03-17,Q116250560,matched,name + DOB match via search
+person-853a9729d9fa,Trương Thị Mai,1958-01-23,,ambiguous,"pool name match, DOB unconfirmed: Q10828738"
+person-72d34604a9ae,Đặng Bích Ngọc,1980-09-29,Q116921405,matched,name + DOB match via search
+person-c2951006a088,Nguyễn Cao Sơn,1969-05-09,,ambiguous,"pool name match, DOB unconfirmed: Q10798991"
+person-6617899286cf,Phạm Hùng Thái,1970-10-14,Q116769696,matched,name + DOB match via search
+person-024451c4de6b,Nguyễn Trọng Nghĩa,1962-03-06,Q18459937,matched,name + DOB match via search
+person-b3b53d2ed405,Hoàng Thị Thanh Thúy,1984-09-02,Q116979920,matched,name + DOB match via search
+person-6017cc262b71,Huỳnh Thanh Phương,1978-05-04,,unmatched,no name candidates on Wikidata
+person-72d1bfe5be79,Nguyễn Mạnh Tiến,1966-05-21,,ambiguous,"pool name match, DOB unconfirmed: Q10799303"
+person-ee511487450b,Trần Hữu Hậu,1960-10-09,,ambiguous,"pool name match, DOB unconfirmed: Q10829332"
+person-bd473f2a4525,Nguyễn Văn Lợi,1961-08-23,Q25417936,matched,name + DOB match via search
+person-92624a74bec9,Nguyễn Tuấn Anh,1964-08-23,,ambiguous,"name match, DOB unconfirmed: Q16158166, Q10834328, Q47506299, Q30924038, Q86010547, Q91411762, Q96129950, Q94525461"
+person-4b81cf3154c1,Huỳnh Thành Chung,1968-08-21,,ambiguous,"name match, DOB unconfirmed: Q30921238"
+person-a1adca7cbcb7,Vũ Ngọc Long,1971-08-23,Q116868950,matched,name + DOB match via search
+person-e44189ed88ac,Phan Viết Lượng,1967-02-01,,unmatched,no name candidates on Wikidata
+person-313764e52a82,Điểu Huỳnh Sang,1980-12-25,,ambiguous,"name match, DOB unconfirmed: Q30921892"
+person-57a43ccb2232,Phạm Trọng Nghĩa,1978-11-14,Q116941914,matched,name + DOB match via search
+person-31786e3b14c2,Hoàng Văn Nghiệm,1968-09-02,Q61129021,matched,name + DOB match via search
+person-38ea4833d176,Lưu Bá Mạc,1980-10-21,,unmatched,no name candidates on Wikidata
+person-1fe5e67454ef,Triệu Quang Huy,1973-07-12,Q116941857,matched,name + DOB match via search
+person-ba275763e633,Chu Thị Hồng Thái,1984-11-21,,unmatched,no name candidates on Wikidata
+person-56493dcf9277,Trần Sỹ Thanh,1971-03-16,Q10829469,matched,name + DOB match via search
+person-b3ea7087211c,Lâm Văn Mẫn,1970-12-10,,ambiguous,"name match, DOB unconfirmed: Q49054507"
+person-dd3a62cfd0ab,Hoàng Thanh Tùng,1966-12-25,Q49054233,matched,name + DOB match via search
+person-ff694703f58b,Phạm Thị Minh Huệ,1984-03-02,Q116976224,matched,name + DOB match via search
+person-f62f07c863a1,Nguyễn Xuân Dắt,1967-01-14,,ambiguous,"name match, DOB unconfirmed: Q61129337"
+person-34c6f959b688,Tô Ái Vang,1975-05-29,,ambiguous,"name match, DOB unconfirmed: Q47506365"
+person-2b1be5f0ea20,Lý Đức (Thượng tọa Lý Minh Đức),1970-04-24,,unmatched,no name candidates on Wikidata
+person-0d6074995bda,Triệu Thị Ngọc Diễm,1985-02-02,Q116976243,matched,name + DOB match via search
+person-1275f43f332f,Trần Quốc Nam,1971-12-27,,ambiguous,"name match, DOB unconfirmed: Q107265355"
+person-fb2c29f023a5,Nguyễn Đình Khang,1967-05-23,,ambiguous,"name match, DOB unconfirmed: Q30919781"
+person-dc9e569234cf,Chamaléa Thị Thủy,1983-04-20,Q116779257,matched,name + DOB match via search
+person-f6d100dc1b77,Phan Xuân Dũng,1960-05-20,,ambiguous,"pool name match, DOB unconfirmed: Q10805139"
+person-cb89f2621339,Đàng Thị Mỹ Hương,1973-06-24,,unmatched,no name candidates on Wikidata
+person-e16632e06f7f,Nguyễn Văn Thuận,1958-01-15,,ambiguous,"pool name match, DOB unconfirmed: Q10799983"
+person-38eb3aa511f7,Vương Quốc Thắng,1975-05-14,Q116970319,matched,name + DOB match via search
+person-8a4c208af5ce,Đặng Thị Bảo Trinh,1986-03-28,,unmatched,no name candidates on Wikidata
+person-5da5bc0aa4bc,Lê Văn Dũng,1966-10-20,,ambiguous,"pool name match, DOB unconfirmed: Q10787909"
+person-57ed55d5d8aa,Dương Văn Phước,1967-05-29,Q116970325,matched,name + DOB match via search
+person-f34582ec511d,Tạ Văn Hạ,1970-01-24,Q30921861,matched,name + DOB match via search
+person-c790904e5d1e,Nguyễn Đức Hải,1961-07-29,,ambiguous,"pool name match, DOB unconfirmed: Q10800176"
+person-b0e2b2af1c51,Phan Thái Bình,1974-08-12,,ambiguous,"name match, DOB unconfirmed: Q47506357"
+person-17e7d99c5a9f,Hồ Thị Kim Ngân,1978-03-02,,ambiguous,"name match, DOB unconfirmed: Q99504010"
+person-9c90afe0c182,Nguyễn Thị Thủy,1977-12-15,,ambiguous,"name match, DOB unconfirmed: Q30090896, Q2672717, Q98461658"
+person-7dac5167d21e,Hà Sỹ Huân,1978-06-16,Q116858893,matched,name + DOB match via search
+person-9864742fbc3c,Hoàng Duy Chinh,1968-09-15,,ambiguous,"name match, DOB unconfirmed: Q30921831"
+person-ef37460f9395,Nguyễn Thị Huế,1984-01-04,,ambiguous,"pool name match, DOB unconfirmed: Q10799613"
+person-95b676ce1ed0,Hoàng Văn Hữu,1966-05-25,,ambiguous,"name match, DOB unconfirmed: Q97166858"
+person-a7f266464def,Đặng Ngọc Huy,1975-12-25,Q116728517,matched,name + DOB match via search
+person-a53e45be8a85,Trần Thị Hồng An,1971-12-11,Q116976173,matched,name + DOB match via search
+person-66d1d947c34b,Đinh Thị Phương Lan,1976-06-05,,unmatched,no name candidates on Wikidata
+person-052cf34d315b,Lương Văn Hùng,1976-06-10,,unmatched,no name candidates on Wikidata
+person-49df5cb7ea20,Vũ Thị Liên Hương,1972-06-01,,unmatched,no name candidates on Wikidata
+person-0a56281267cf,Trần Quang Phương,1961-05-06,,ambiguous,"name match, DOB unconfirmed: Q24956399"
+person-8ec940187f97,Huỳnh Thị Ánh Sương,1976-06-16,Q116976150,matched,name + DOB match via search
+person-6c268422b3ee,Trần Văn Nam (Trần Quốc Tuấn),1963-08-30,,unmatched,no name candidates on Wikidata
+person-40c3cd9580f5,Nguyễn Văn Dành,1966-11-11,,ambiguous,"name match, DOB unconfirmed: Q30921699, Q248849, Q25417949, Q86010559"
+person-2dac281d7f91,Trần Công Phàn,1960-07-13,,ambiguous,"name match, DOB unconfirmed: Q49055020"
+person-0d81365d891d,Nguyễn Thị Ngọc Xuân,1985-09-29,Q116866378,matched,name + DOB match via search
+person-bb21895c36cf,Nguyễn Quang Huân,1964-12-20,,unmatched,no name candidates on Wikidata
+person-ff2ad8dfbec5,Phạm Trọng Nhân (Út Nhân),1972-03-20,,unmatched,no name candidates on Wikidata
+person-610b740fcae4,Nguyễn Hoàng Bảo Trân,1975-06-22,,unmatched,no name candidates on Wikidata
+person-3dc511ea241c,Vũ Huy Khánh,1974-07-02,,unmatched,no name candidates on Wikidata
+person-9297aee0db0c,Nguyễn Tân Cương,1966-02-12,,ambiguous,"pool name match, DOB unconfirmed: Q20025996"
+person-f3998cea9d0f,Lê Văn Khảm,1969-03-20,Q116867152,matched,name + DOB match via search
+person-e659a98a66db,Nguyễn Văn Riễn (Linh mục Nguyễn Văn Riễn),1955-12-20,,unmatched,no name candidates on Wikidata
+person-77f95fc00e04,Tô Lâm,1957-07-10,Q10831196,matched,name + DOB match via search
+person-233c00693447,Đỗ Tiến Sỹ,1965-11-02,,ambiguous,"name match, DOB unconfirmed: Q24957814"
+person-f6e3aa8c6759,Đoàn Thị Thanh Mai,1971-11-13,,ambiguous,"name match, DOB unconfirmed: Q47506301"
+person-4f9721662f42,Phạm Đình Toản,1966-05-26,,ambiguous,"name match, DOB unconfirmed: Q47506304"
+person-835422f497e8,Vũ Hồng Luyến,1983-03-29,Q116922962,matched,name + DOB match via search
+person-7f20a305c1e7,Nguyễn Đại Thắng,1975-08-22,Q116922961,matched,name + DOB match via search
+person-f484611adcc9,Đào Hồng Vận,1973-04-22,Q116784170,matched,name + DOB match via search
+person-bae701cb286e,Lại Xuân Môn,1963-11-29,,ambiguous,"name match, DOB unconfirmed: Q30921862"
+person-82ffb7e63ca8,Đỗ Quang Thành,1965-10-19,,ambiguous,"name match, DOB unconfirmed: Q30921906"
+person-4ee4265acedb,Đoàn Thị Lê An,1979-02-26,,unmatched,no name candidates on Wikidata
+person-1ccf05ee1b60,Bế Minh Đức,1974-02-15,,unmatched,no name candidates on Wikidata
+person-6f0c03e7548a,Đàm Minh Diện,1970-02-07,Q116787767,matched,name + DOB match via search
+person-e7427c0ef1fe,Nguyễn Đình Việt,1977-07-09,Q116784854,matched,name + DOB match via search
+person-8d68e56c2ba4,Ngô Trung Thành,1975-01-29,,unmatched,no name candidates on Wikidata
+person-305c626425f6,Lê Ngọc Hải,1970-02-07,Q47506358,matched,name + DOB match via search
+person-0627128b70a9,Nguyễn Thị Xuân,1967-10-25,,ambiguous,"name match, DOB unconfirmed: Q30921212, Q85866735, Q90218932"
+person-5433d8dbe73d,Bùi Thị Minh Hoài,1965-01-12,Q49054637,matched,name + DOB match via search
+person-7c68c8e56950,Lưu Văn Đức,1967-02-18,,ambiguous,"name match, DOB unconfirmed: Q30922071"
+person-123814431f38,Lê Thị Thanh Xuân,1977-12-15,,unmatched,no name candidates on Wikidata
+person-e95fc88bdeb5,Nguyễn Thị Thu Nguyệt,1972-09-25,Q116874292,matched,name + DOB match via search
+person-18b20443a23c,Phúc Bình Niê Kdăm,1983-09-08,Q116875328,matched,name + DOB match via search
+person-19238f03a8f5,Y Vinh Tơr,1976-08-16,,ambiguous,"name match, DOB unconfirmed: Q109679197"
+person-d3edd5d9d4c7,Nguyễn Hồng Diên,1965-03-16,,ambiguous,"pool name match, DOB unconfirmed: Q10799140"
+person-1abb82358ec4,Nguyễn Đức Dũng,1967-08-04,,ambiguous,"pool name match, DOB unconfirmed: Q10800170"
+person-d99eb5bcf122,Tống Văn Băng,1974-07-17,Q116788781,matched,name + DOB match via search
+person-160d71982db5,Nguyễn Minh Quang,1969-06-29,,ambiguous,"pool name match, DOB unconfirmed: Q10799285, Q10799286"
+person-e3a95850e4c1,Nguyễn Chu Hồi,1952-05-15,,unmatched,no name candidates on Wikidata
+person-b5e16ddebf5b,Lã Thanh Tân,1967-10-02,,ambiguous,"name match, DOB unconfirmed: Q30921638"
+person-18ffe7a6e7bd,Vương Đình Huệ,1957-03-15,,ambiguous,"pool name match, DOB unconfirmed: Q2595973"
+person-cc0b845b9f86,Đỗ Mạnh Hiến,1969-11-10,,ambiguous,"name match, DOB unconfirmed: Q109743824"
+person-7eccd5f3fd77,Vũ Thanh Chương,1968-05-09,,ambiguous,"name match, DOB unconfirmed: Q86012870"
+person-01ed14795606,Bố Thị Xuân Linh,1970-03-01,Q30921893,matched,name + DOB match via search
+person-487c77d65d26,Lê Quang Huy,1966-09-19,,ambiguous,"pool name match, DOB unconfirmed: Q10787782"
+person-1bf388729db4,Dương Văn An,1971-02-15,,ambiguous,"name match, DOB unconfirmed: Q5315885, Q30924063"
+person-abc50360585c,Phạm Thị Hồng Yến,1975-08-07,Q116872722,matched,name + DOB match via search
+person-f738433ed76e,Nguyễn Hữu Thông,1981-11-25,Q116869155,matched,name + DOB match via search
+person-605a0ba8e9f2,Trần Hồng Nguyên,1969-05-26,,ambiguous,"name match, DOB unconfirmed: Q30921901"
+person-fd04cf997fa7,Đặng Hồng Sỹ,1976-01-20,Q116800224,matched,name + DOB match via search
+person-8c66f95f51f3,Phạm Bình Minh,1959-03-26,Q10806892,matched,name + DOB match in NA-member pool
+person-e6aed1352749,Nguyễn Tâm Hùng,1969-06-04,Q116796826,matched,name + DOB match via search
+person-3169ac9df185,Huỳnh Thị Phúc,1976-02-17,Q116857381,matched,name + DOB match via search
+person-283cdbe218f6,Nguyễn Thị Yến (Nguyễn Thị Phấn),1965-08-14,,unmatched,no name candidates on Wikidata
+person-64ea09fa15f9,Dương Tấn Quân,1985-10-21,,unmatched,no name candidates on Wikidata
+person-4ca19919eca7,Đỗ Văn Yên,1968-07-10,,ambiguous,"name match, DOB unconfirmed: Q118251176"
+person-e9b50fe5ea9c,Nguyễn Phú Cường,1967-06-19,,ambiguous,"name match, DOB unconfirmed: Q27793240, Q24957809"
+person-b2671d63ac75,Trịnh Xuân An,1982-05-16,Q116883849,matched,name + DOB match via search
+person-a8a18176ded1,Nguyễn Thị Như Ý (VY),1973-11-02,,unmatched,no name candidates on Wikidata
+person-0ab7c2f57c50,Vũ Hồng Văn,1976-02-03,,ambiguous,"name match, DOB unconfirmed: Q109439518"
+person-8acdab43774f,Lê Hoàng Hải,1970-08-02,Q116884417,matched,name + DOB match via search
+person-9a6e5719c659,Bùi Xuân Thống,1976-04-17,,unmatched,no name candidates on Wikidata
+person-788bd06f1a05,Quản Minh Cường,1969-06-26,,ambiguous,"name match, DOB unconfirmed: Q118250026"
+person-3c5e56e797de,Đỗ Huy Khánh,1977-05-30,,unmatched,no name candidates on Wikidata
+person-da87c9d863cf,Nguyễn Công Long,1970-04-05,Q116884867,matched,name + DOB match via search
+person-89e40afa2844,Đỗ Thị Thu Hằng,1971-06-07,,ambiguous,"name match, DOB unconfirmed: Q30921772"
+person-e5591eed1e7d,Vũ Hải Hà,1969-03-01,,ambiguous,"name match, DOB unconfirmed: Q30921776"
+person-690950fda331,Thổ Út,1970-04-26,,unmatched,no name candidates on Wikidata
+person-f83d2281ef84,Phạm Trường Sơn,1967-12-27,Q116768511,matched,name + DOB match via search
+person-db9fbfd3a20f,"Nguyễn Thị Sửu (Nguyễn Thị Hường, Kê Sửu)",1973-11-09,,unmatched,no name candidates on Wikidata
+person-4bbb98ebbd41,Nguyễn Thanh Hải,1972-05-21,,ambiguous,"pool name match, DOB unconfirmed: Q10799486"
+person-fbb16e5f908f,Phạm Như Hiệp,1965-08-10,,ambiguous,"name match, DOB unconfirmed: Q30922040"
+person-ac315242661a,Lê Hoài Trung,1961-04-27,,ambiguous,"name match, DOB unconfirmed: Q10787630, Q132529172"
+person-fc9d2bf09d8d,Lê Trường Lưu,1963-01-23,,ambiguous,"name match, DOB unconfirmed: Q24957825"
+person-665324a49744,Nguyễn Hải Nam,1977-10-02,Q117001301,matched,name + DOB match via search
+person-eab8755a8bfa,Bùi Mạnh Khoa,1972-06-02,Q117000819,matched,name + DOB match via search
+person-862733b50268,Trần Văn Thức,1969-12-20,,ambiguous,"pool name match, DOB unconfirmed: Q10829626"
+person-0a86a0f45f5b,Võ Mạnh Sơn,1971-07-13,Q117000832,matched,name + DOB match via search
+person-8f428b89e77b,Lương Cường,1957-08-15,Q18459548,matched,name + DOB match via search
+person-a63ce86af03f,Mai Văn Hải,1973-12-23,Q117000838,matched,name + DOB match via search
+person-5c7697c8eb8f,Cao Mạnh Linh,1982-01-23,,ambiguous,"name match, DOB unconfirmed: Q117000848"
+person-c21213902d00,Đào Ngọc Dung,1962-06-06,Q10840462,matched,name + DOB match via search
+person-7c0146724b06,Vũ Xuân Hùng,1967-05-06,,ambiguous,"name match, DOB unconfirmed: Q30921677"
+person-6a46de7118ea,Cầm Thị Mẫn,1970-11-12,,unmatched,no name candidates on Wikidata
+person-59b67de2a2df,Cao Thị Xuân,1969-09-18,,ambiguous,"pool name match, DOB unconfirmed: Q10744274"
+person-57fcfd8251d8,Lê Văn Cường,1978-08-28,,ambiguous,"pool name match, DOB unconfirmed: Q10787906"
+person-20e9959088db,Lê Thanh Hoàn,1976-08-01,Q117000843,matched,name + DOB match via search
+person-eb138ae047bd,Lại Thế Nguyên,1970-06-22,Q116730645,matched,name + DOB match via search
+person-9518776078cf,Phạm Thị Xuân,1991-10-11,,unmatched,candidates found but no name match (1 searched)
+person-e5ed12a2c626,Võ Văn Thưởng,1970-12-13,Q10833302,matched,name + DOB match via search
+person-36b3e5b29275,Trần Đình Chung,1967-08-25,,ambiguous,"name match, DOB unconfirmed: Q109452118"
+person-733804d6dfce,Trần Chí Cường,1973-02-15,,ambiguous,"name match, DOB unconfirmed: Q107432648"
+person-c0ea9c1e2ee8,Nguyễn Văn Quảng,1969-08-23,Q61129687,matched,name + DOB match via search
+person-1ee3626e08ab,Nguyễn Thị Kim Thúy,1967-09-11,,ambiguous,"pool name match, DOB unconfirmed: Q10799642"
+person-db7f4084b7fe,Nguyễn Duy Minh,1982-07-26,Q116848857,matched,name + DOB match via search
+person-ea5d2c902f1d,Nguyễn Quốc Hùng,1969-04-19,,ambiguous,"name match, DOB unconfirmed: Q136339545, Q10799443, Q30921477, Q136449747"
+person-8b9ff571eb50,Trần Văn Khải,1975-09-15,Q116909017,matched,name + DOB match via search
+person-3eba20601764,Phạm Hùng Thắng,1974-05-17,Q116909018,matched,name + DOB match via search
+person-b17e117e6536,Trương Quốc Huy,1970-06-19,,ambiguous,"name match, DOB unconfirmed: Q3541424, Q109421964"
+person-c8d12b1a7ac9,Lê Thị Nga,1964-12-20,,ambiguous,"pool name match, DOB unconfirmed: Q10787854"
+person-9839becd02f6,Trần Thị Hiền,1974-12-22,,ambiguous,"pool name match, DOB unconfirmed: Q10829505, Q10829506"
+person-8da303b7f1db,Phạm Đại Dương,1974-02-06,,ambiguous,"name match, DOB unconfirmed: Q61132836"
+person-17649da452e0,Đỗ Chí Nghĩa,1975-01-05,Q116970024,matched,name + DOB match via search
+person-ab9061f9d1f5,Dương Bình Phú,1969-08-25,Q116970144,matched,name + DOB match via search
+person-5ef4be00680f,Lê Quang Đạo,1971-03-23,,ambiguous,"name match, DOB unconfirmed: Q6507548, Q98132926"
+person-fb744d81ca3a,Lê Văn Thìn,1976-08-20,Q116970164,matched,name + DOB match via search
+person-0edffd1f0251,Lê Đào An Xuân,1983-01-09,,ambiguous,"name match, DOB unconfirmed: Q109439382"
+person-193ddd81bbae,Hoàng Trung Dũng,1971-05-21,Q120751695,matched,name + DOB match via search
+person-b417d22411f0,Trần Đình Gia,1969-11-11,Q30921725,matched,name + DOB match via search
+person-0521148fa669,Bùi Thị Quỳnh Thơ,1976-08-28,,unmatched,no name candidates on Wikidata
+person-f662ad6334f8,Hà Thọ Bình,1968-12-04,,unmatched,no name candidates on Wikidata
+person-46097f5692b8,Lê Anh Tuấn,1976-02-23,,ambiguous,"name match, DOB unconfirmed: Q30924004, Q10787563, Q139386669"
+person-36e3c600b3d6,Lê Minh Hưng,1970-12-11,Q24254499,matched,name + DOB match via search
+person-2f0582438e86,Phan Thị Nguyệt Thu,1974-09-29,Q116909726,matched,name + DOB match via search
+person-d066c9a5d5a6,Nguyễn Khắc Định,1964-01-03,,ambiguous,"name match, DOB unconfirmed: Q30920504"
+person-2fec89e42464,Nguyễn Văn Huy,1979-01-02,Q116982934,matched,name + DOB match via search
+person-0b7ecbcac7c2,Trần Khánh Thu,1982-11-26,,unmatched,no name candidates on Wikidata
+person-dd979c56628d,Nguyễn Văn An,1968-11-30,Q116982950,matched,name + DOB match via search
+person-1a97b070a768,Nguyễn Thị Thu Dung,1969-08-04,,unmatched,no name candidates on Wikidata
+person-f8cb488d20f8,Phan Đức Hiếu,1974-05-19,Q116982958,matched,name + DOB match via search
+person-514a584934c6,Ngô Đông Hải,1970-10-25,Q49054673,matched,name + DOB match via search
+person-37d34e1ea066,Lại Văn Hoàn,1974-01-08,Q116707263,matched,name + DOB match via search
+person-cbdd3451fc4f,Nguyễn Văn Thân,1955-02-02,,ambiguous,"pool name match, DOB unconfirmed: Q10799987"
+person-35bd6142cd2d,Trần Quốc Tuấn,1970-02-08,,ambiguous,"name match, DOB unconfirmed: Q511375, Q138427325, Q49055799"
+person-d97312bcaa1b,Phạm Thị Hồng Diễm,1979-01-01,,unmatched,no name candidates on Wikidata
+person-4a3ddb8aad38,Thạch Phước Bình,1978-09-28,,ambiguous,"name match, DOB unconfirmed: Q30922023"
+person-23b924c9716b,Ngô Chí Cường,1967-09-11,,ambiguous,"name match, DOB unconfirmed: Q704291, Q30922015"
+person-127a4885c36b,Huỳnh Thị Hằng Nga,1982-08-28,Q117014367,matched,name + DOB match via search
+person-b352c859935b,Bế Trung Anh,1966-10-25,Q117014363,matched,name + DOB match via search
