@@ -1,0 +1,297 @@
+priority,category,person_id,name,our_dob,candidate_qids,first_candidate_url
+1,verify-dob-single-search,person-2483601c9ee8,Bùi Minh Châu,1961-10-25,Q47506344,https://www.wikidata.org/wiki/Q47506344
+1,verify-dob-single-search,person-2949d4901655,Bùi Thanh Sơn,1962-10-16,Q30921853,https://www.wikidata.org/wiki/Q30921853
+1,verify-dob-single-pool,person-50846a98640d,Bùi Văn Cường,1965-06-18,Q10742852,https://www.wikidata.org/wiki/Q10742852
+1,verify-dob-single-search,person-5c7697c8eb8f,Cao Mạnh Linh,1982-01-23,Q117000848,https://www.wikidata.org/wiki/Q117000848
+1,verify-dob-single-pool,person-59b67de2a2df,Cao Thị Xuân,1969-09-18,Q10744274,https://www.wikidata.org/wiki/Q10744274
+1,verify-dob-single-search,person-ff5e8ac87d7d,Châu Ngọc Tuấn,1970-12-28,Q109441616,https://www.wikidata.org/wiki/Q109441616
+1,verify-dob-single-search,person-bf0cb8c82b94,Châu Quỳnh Dao,1977-05-18,Q47506307,https://www.wikidata.org/wiki/Q47506307
+1,verify-dob-single-search,person-9ed85f9357db,Chẩu Văn Lâm,1967-04-16,Q30921973,https://www.wikidata.org/wiki/Q30921973
+1,verify-dob-single-search,person-bd908524c841,Dương Minh Ánh,1975-09-01,Q24959119,https://www.wikidata.org/wiki/Q24959119
+1,verify-dob-single-search,person-8b24c0b4b7ae,Giàng Páo Mỷ,1963-12-22,Q47506315,https://www.wikidata.org/wiki/Q47506315
+1,verify-dob-single-search,person-9864742fbc3c,Hoàng Duy Chinh,1968-09-15,Q30921831,https://www.wikidata.org/wiki/Q30921831
+1,verify-dob-single-search,person-6c67c1f1b13f,Hoàng Thị Thúy Lan,1966-05-06,Q24957812,https://www.wikidata.org/wiki/Q24957812
+1,verify-dob-single-search,person-95b676ce1ed0,Hoàng Văn Hữu,1966-05-25,Q97166858,https://www.wikidata.org/wiki/Q97166858
+1,verify-dob-single-search,person-c4036c91523d,Hoàng Văn Liên,1965-08-19,Q47506328,https://www.wikidata.org/wiki/Q47506328
+1,verify-dob-single-search,person-dceb2f1c9837,Hoàng Đức Thắng,1964-11-12,Q30921761,https://www.wikidata.org/wiki/Q30921761
+1,verify-dob-single-search,person-ef2b94e145ab,Huỳnh Minh Tuấn,1980-10-10,Q30922152,https://www.wikidata.org/wiki/Q30922152
+1,verify-dob-single-search,person-4b81cf3154c1,Huỳnh Thành Chung,1968-08-21,Q30921238,https://www.wikidata.org/wiki/Q30921238
+1,verify-dob-single-pool,person-ffd2157de4bc,Hà Sỹ Đồng,1964-01-18,Q10770580,https://www.wikidata.org/wiki/Q10770580
+1,verify-dob-single-search,person-776f22e810f5,Hà Thị Nga,1969-02-20,Q49054138,https://www.wikidata.org/wiki/Q49054138
+1,verify-dob-single-search,person-17e7d99c5a9f,Hồ Thị Kim Ngân,1978-03-02,Q99504010,https://www.wikidata.org/wiki/Q99504010
+1,verify-dob-single-pool,person-8040275019e4,Hồ Đức Phớc,1963-11-01,Q16157242,https://www.wikidata.org/wiki/Q16157242
+1,verify-dob-single-search,person-5336b648e589,Khuất Việt Dũng,1959-01-31,Q20025821,https://www.wikidata.org/wiki/Q20025821
+1,verify-dob-single-search,person-d4cd86bef295,Leo Thị Lịch,1969-09-23,Q30921843,https://www.wikidata.org/wiki/Q30921843
+1,verify-dob-single-search,person-b3ea7087211c,Lâm Văn Mẫn,1970-12-10,Q49054507,https://www.wikidata.org/wiki/Q49054507
+1,verify-dob-single-search,person-b5e16ddebf5b,Lã Thanh Tân,1967-10-02,Q30921638,https://www.wikidata.org/wiki/Q30921638
+1,verify-dob-single-search,person-fff9da551a59,Lê Khánh Hải,1966-05-27,Q97927041,https://www.wikidata.org/wiki/Q97927041
+1,verify-dob-single-pool,person-6e77584be8cb,Lê Kim Toàn,1965-05-05,Q10787700,https://www.wikidata.org/wiki/Q10787700
+1,verify-dob-single-search,person-8cfacf2f0845,Lê Minh Chuẩn,1965-04-02,Q47506363,https://www.wikidata.org/wiki/Q47506363
+1,verify-dob-single-pool,person-38fb66aebce8,Lê Minh Hoan,1961-01-19,Q16157439,https://www.wikidata.org/wiki/Q16157439
+1,verify-dob-single-pool,person-64ba6ae04ef9,Lê Mạnh Hùng,1973-10-24,Q10787743,https://www.wikidata.org/wiki/Q10787743
+1,verify-dob-single-pool,person-487c77d65d26,Lê Quang Huy,1966-09-19,Q10787782,https://www.wikidata.org/wiki/Q10787782
+1,verify-dob-single-search,person-fda628e82d7a,Lê Quốc Chỉnh,1968-12-01,Q109441606,https://www.wikidata.org/wiki/Q109441606
+1,verify-dob-single-pool,person-97361cf901c7,Lê Thanh Phong,1967-10-06,Q10787816,https://www.wikidata.org/wiki/Q10787816
+1,verify-dob-single-pool,person-71fd02aa8b30,Lê Thanh Vân,1964-12-23,Q10787819,https://www.wikidata.org/wiki/Q10787819
+1,verify-dob-single-pool,person-d3aa68dd45b8,Lê Thành Long,1963-09-23,Q10787813,https://www.wikidata.org/wiki/Q10787813
+1,verify-dob-single-pool,person-c8d12b1a7ac9,Lê Thị Nga,1964-12-20,Q10787854,https://www.wikidata.org/wiki/Q10787854
+1,verify-dob-single-search,person-b911b4c2635a,Lê Thị Song An,1977-10-11,Q118250874,https://www.wikidata.org/wiki/Q118250874
+1,verify-dob-single-search,person-fc9d2bf09d8d,Lê Trường Lưu,1963-01-23,Q24957825,https://www.wikidata.org/wiki/Q24957825
+1,verify-dob-single-search,person-375a2d8b0b4e,Lê Tấn Tới,1969-04-04,Q30921860,https://www.wikidata.org/wiki/Q30921860
+1,verify-dob-single-search,person-51b8457c0ff6,Lê Tất Hiếu,1966-08-01,Q61130675,https://www.wikidata.org/wiki/Q61130675
+1,verify-dob-single-pool,person-57fcfd8251d8,Lê Văn Cường,1978-08-28,Q10787906,https://www.wikidata.org/wiki/Q10787906
+1,verify-dob-single-pool,person-5da5bc0aa4bc,Lê Văn Dũng,1966-10-20,Q10787909,https://www.wikidata.org/wiki/Q10787909
+1,verify-dob-single-pool,person-fc985555dfd8,Lê Xuân Thân,1961-05-02,Q10787962,https://www.wikidata.org/wiki/Q10787962
+1,verify-dob-single-search,person-0edffd1f0251,Lê Đào An Xuân,1983-01-09,Q109439382,https://www.wikidata.org/wiki/Q109439382
+1,verify-dob-single-search,person-2c6040860c8f,Lý Tiết Hạnh,1972-10-30,Q30921873,https://www.wikidata.org/wiki/Q30921873
+1,verify-dob-single-search,person-b60086ecc471,Lý Văn Huấn,1971-10-13,Q61131865,https://www.wikidata.org/wiki/Q61131865
+1,verify-dob-single-search,person-7c68c8e56950,Lưu Văn Đức,1967-02-18,Q30922071,https://www.wikidata.org/wiki/Q30922071
+1,verify-dob-single-search,person-e0fd32e1d792,Lương Quốc Đoàn,1970-12-21,Q109438997,https://www.wikidata.org/wiki/Q109438997
+1,verify-dob-single-search,person-bae701cb286e,Lại Xuân Môn,1963-11-29,Q30921862,https://www.wikidata.org/wiki/Q30921862
+1,verify-dob-single-search,person-85c5f4594b62,Ma Thị Thúy,1978-10-03,Q30921967,https://www.wikidata.org/wiki/Q30921967
+1,verify-dob-single-search,person-58c729d0329f,Mai Khanh,1975-10-22,Q47506335,https://www.wikidata.org/wiki/Q47506335
+1,verify-dob-single-search,person-b7ead9912134,Mai Thị Phương Hoa,1971-11-25,Q47506330,https://www.wikidata.org/wiki/Q47506330
+1,verify-dob-single-pool,person-81b2ed6d3048,Nguyễn Thị Thu Hà,1978-02-04,Q10799708,https://www.wikidata.org/wiki/Q10799708
+1,verify-dob-single-search,person-d66ab231f5a5,Nguyễn Anh Trí,1957-09-14,Q30920721,https://www.wikidata.org/wiki/Q30920721
+1,verify-dob-single-pool,person-c2951006a088,Nguyễn Cao Sơn,1969-05-09,Q10798991,https://www.wikidata.org/wiki/Q10798991
+1,verify-dob-single-search,person-51075593f141,Nguyễn Hoàng Mai,1965-05-03,Q30922053,https://www.wikidata.org/wiki/Q30922053
+1,verify-dob-single-search,person-b577d3510a36,Nguyễn Hải Hưng,1966-03-22,Q47506288,https://www.wikidata.org/wiki/Q47506288
+1,verify-dob-single-search,person-0311fa69f204,Nguyễn Hải Trung,1968-10-06,Q61131145,https://www.wikidata.org/wiki/Q61131145
+1,verify-dob-single-pool,person-d3edd5d9d4c7,Nguyễn Hồng Diên,1965-03-16,Q10799140,https://www.wikidata.org/wiki/Q10799140
+1,verify-dob-single-pool,person-581b2f2abf8e,Nguyễn Hữu Đông,1972-09-20,Q10799203,https://www.wikidata.org/wiki/Q10799203
+1,verify-dob-single-search,person-d066c9a5d5a6,Nguyễn Khắc Định,1964-01-03,Q30920504,https://www.wikidata.org/wiki/Q30920504
+1,verify-dob-single-pool,person-c3b24a92704c,Nguyễn Kim Sơn,1966-11-18,Q10799246,https://www.wikidata.org/wiki/Q10799246
+1,verify-dob-single-pool,person-018f33f0c2ef,Nguyễn Lâm Thành,1964-07-07,Q10799262,https://www.wikidata.org/wiki/Q10799262
+1,verify-dob-single-pool,person-72d1bfe5be79,Nguyễn Mạnh Tiến,1966-05-21,Q10799303,https://www.wikidata.org/wiki/Q10799303
+1,verify-dob-single-search,person-aeb1c1d406d0,Nguyễn Ngọc Bảo,1967-06-16,Q30924029,https://www.wikidata.org/wiki/Q30924029
+1,verify-dob-single-search,person-a3d13b223a9d,Nguyễn Như So,1957-08-23,Q30921827,https://www.wikidata.org/wiki/Q30921827
+1,verify-dob-single-pool,person-4dff315c331d,Nguyễn Phi Thường,1971-05-07,Q10799382,https://www.wikidata.org/wiki/Q10799382
+1,verify-dob-single-search,person-26eced14feb6,Nguyễn Phương Tuấn,1975-03-20,Q47506336,https://www.wikidata.org/wiki/Q47506336
+1,verify-dob-single-search,person-d5cd3ca624e3,Nguyễn Quốc Hận,1965-02-17,Q30921706,https://www.wikidata.org/wiki/Q30921706
+1,verify-dob-single-search,person-7d1e652d3471,Nguyễn Sỹ Quang,1970-02-01,Q118251322,https://www.wikidata.org/wiki/Q118251322
+1,verify-dob-single-pool,person-2a28c0679e9e,Nguyễn Thanh Hải,1972-11-30,Q10799486,https://www.wikidata.org/wiki/Q10799486
+1,verify-dob-single-pool,person-4bbb98ebbd41,Nguyễn Thanh Hải,1972-05-21,Q10799486,https://www.wikidata.org/wiki/Q10799486
+1,verify-dob-single-pool,person-9e2b7bfa9478,Nguyễn Thanh Phong,1976-05-21,Q10799539,https://www.wikidata.org/wiki/Q10799539
+1,verify-dob-single-pool,person-c3bb9bca8d77,Nguyễn Thanh Phương,1965-04-03,Q10799494,https://www.wikidata.org/wiki/Q10799494
+1,verify-dob-single-search,person-bf29c18a30c8,Nguyễn Thanh Sang,1969-10-09,Q20026001,https://www.wikidata.org/wiki/Q20026001
+1,verify-dob-single-pool,person-e6991323a879,Nguyễn Thành Nam,1966-08-13,Q10799490,https://www.wikidata.org/wiki/Q10799490
+1,verify-dob-single-pool,person-ef37460f9395,Nguyễn Thị Huế,1984-01-04,Q10799613,https://www.wikidata.org/wiki/Q10799613
+1,verify-dob-single-search,person-bbee9c8262d9,Nguyễn Thị Hồng Hạnh,1974-01-11,Q85866722,https://www.wikidata.org/wiki/Q85866722
+1,verify-dob-single-pool,person-2e2d29509887,Nguyễn Thị Kim Bé,1968-09-10,Q10799634,https://www.wikidata.org/wiki/Q10799634
+1,verify-dob-single-pool,person-1ee3626e08ab,Nguyễn Thị Kim Thúy,1967-09-11,Q10799642,https://www.wikidata.org/wiki/Q10799642
+1,verify-dob-single-pool,person-381ebff74c3d,Nguyễn Thị Lan,1974-05-10,Q10799644,https://www.wikidata.org/wiki/Q10799644
+1,verify-dob-single-search,person-541458f7b6c4,Nguyễn Thị Lệ Thủy,1968-01-31,Q30921867,https://www.wikidata.org/wiki/Q30921867
+1,verify-dob-single-pool,person-712837e5013e,Nguyễn Thị Mai Hoa,1967-04-22,Q10799656,https://www.wikidata.org/wiki/Q10799656
+1,verify-dob-single-search,person-d5a8ae369a0c,Nguyễn Thị Minh Trang,1979-05-16,Q30921952,https://www.wikidata.org/wiki/Q30921952
+1,verify-dob-single-pool,person-1d4305a75bbe,Nguyễn Thị Thu Thủy,1976-08-07,Q10799712,https://www.wikidata.org/wiki/Q10799712
+1,verify-dob-single-pool,person-81bdf896670d,Nguyễn Thị Tuyết Nga,1971-04-26,Q10799726,https://www.wikidata.org/wiki/Q10799726
+1,verify-dob-single-search,person-3cdc87d51d03,Nguyễn Thị Việt Nga,1976-09-29,Q47506289,https://www.wikidata.org/wiki/Q47506289
+1,verify-dob-single-pool,person-9297aee0db0c,Nguyễn Tân Cương,1966-02-12,Q20025996,https://www.wikidata.org/wiki/Q20025996
+1,verify-dob-single-pool,person-376b6e952e68,Nguyễn Tạo,1963-06-16,Q130386977,https://www.wikidata.org/wiki/Q130386977
+1,verify-dob-single-pool,person-c357b9f579a5,Nguyễn Vân Chi,1966-09-17,Q10799877,https://www.wikidata.org/wiki/Q10799877
+1,verify-dob-single-pool,person-f9ade70d0db6,Nguyễn Văn Hùng,1961-04-20,Q10799911,https://www.wikidata.org/wiki/Q10799911
+1,verify-dob-single-pool,person-81c6d5c17701,Nguyễn Văn Thuận,1965-12-08,Q10799983,https://www.wikidata.org/wiki/Q10799983
+1,verify-dob-single-pool,person-e16632e06f7f,Nguyễn Văn Thuận,1958-01-15,Q10799983,https://www.wikidata.org/wiki/Q10799983
+1,verify-dob-single-pool,person-cbdd3451fc4f,Nguyễn Văn Thân,1955-02-02,Q10799987,https://www.wikidata.org/wiki/Q10799987
+1,verify-dob-single-search,person-f62f07c863a1,Nguyễn Xuân Dắt,1967-01-14,Q61129337,https://www.wikidata.org/wiki/Q61129337
+1,verify-dob-single-search,person-fb2c29f023a5,Nguyễn Đình Khang,1967-05-23,Q30919781,https://www.wikidata.org/wiki/Q30919781
+1,verify-dob-single-search,person-c82b5012c984,Nguyễn Đăng Khải,1966-09-02,Q135880354,https://www.wikidata.org/wiki/Q135880354
+1,verify-dob-single-pool,person-1abb82358ec4,Nguyễn Đức Dũng,1967-08-04,Q10800170,https://www.wikidata.org/wiki/Q10800170
+1,verify-dob-single-pool,person-c790904e5d1e,Nguyễn Đức Hải,1961-07-29,Q10800176,https://www.wikidata.org/wiki/Q10800176
+1,verify-dob-single-search,person-34c3b35e06e2,Ngô Hoàng Ngân,1966-05-25,Q116976058,https://www.wikidata.org/wiki/Q116976058
+1,verify-dob-single-search,person-f5035869a3cc,Ngô Thanh Danh,1965-10-20,Q30922077,https://www.wikidata.org/wiki/Q30922077
+1,verify-dob-single-search,person-a5cf98282e76,Ngô Văn Tuấn,1971-08-02,Q109435466,https://www.wikidata.org/wiki/Q109435466
+1,verify-dob-single-search,person-d818a8e6e7b7,Phan Huỳnh Sơn,1963-01-01,Q30921745,https://www.wikidata.org/wiki/Q30921745
+1,verify-dob-single-search,person-b0e2b2af1c51,Phan Thái Bình,1974-08-12,Q47506357,https://www.wikidata.org/wiki/Q47506357
+1,verify-dob-single-search,person-a251fbbc09bc,Phan Thị Mỹ Dung,1974-11-28,Q47506327,https://www.wikidata.org/wiki/Q47506327
+1,verify-dob-single-pool,person-03d90edf2989,Phan Văn Giang,1960-10-14,Q20026119,https://www.wikidata.org/wiki/Q20026119
+1,verify-dob-single-search,person-ae4ca6655d6b,Phan Văn Mãi,1973-02-25,Q24958694,https://www.wikidata.org/wiki/Q24958694
+1,verify-dob-single-pool,person-f6d100dc1b77,Phan Xuân Dũng,1960-05-20,Q10805139,https://www.wikidata.org/wiki/Q10805139
+1,verify-dob-single-pool,person-bfff39afb603,Phan Đình Trạc,1958-08-25,Q10805156,https://www.wikidata.org/wiki/Q10805156
+1,verify-dob-single-search,person-fbb16e5f908f,Phạm Như Hiệp,1965-08-10,Q30922040,https://www.wikidata.org/wiki/Q30922040
+1,verify-dob-single-search,person-09ec16fa2d35,Phạm Văn Hòa,1962-10-02,Q47506280,https://www.wikidata.org/wiki/Q47506280
+1,verify-dob-single-search,person-4f9721662f42,Phạm Đình Toản,1966-05-26,Q47506304,https://www.wikidata.org/wiki/Q47506304
+1,verify-dob-single-search,person-8da303b7f1db,Phạm Đại Dương,1974-02-06,Q61132836,https://www.wikidata.org/wiki/Q61132836
+1,verify-dob-single-search,person-f5f331d04fe8,Quàng Văn Hương,1969-07-03,Q47506367,https://www.wikidata.org/wiki/Q47506367
+1,verify-dob-single-search,person-788bd06f1a05,Quản Minh Cường,1969-06-26,Q118250026,https://www.wikidata.org/wiki/Q118250026
+1,verify-dob-single-pool,person-4c1ff8c27b40,Thái Thị An Chung,1973-11-10,Q10825772,https://www.wikidata.org/wiki/Q10825772
+1,verify-dob-single-search,person-4a3ddb8aad38,Thạch Phước Bình,1978-09-28,Q30922023,https://www.wikidata.org/wiki/Q30922023
+1,verify-dob-single-search,person-2823b78fbb4d,Triệu Thế Hùng,1971-08-14,Q47506322,https://www.wikidata.org/wiki/Q47506322
+1,verify-dob-single-search,person-21adf6dfdae4,Triệu Thị Huyền,1992-03-23,Q24959158,https://www.wikidata.org/wiki/Q24959158
+1,verify-dob-single-pool,person-853a9729d9fa,Trương Thị Mai,1958-01-23,Q10828738,https://www.wikidata.org/wiki/Q10828738
+1,verify-dob-single-search,person-733804d6dfce,Trần Chí Cường,1973-02-15,Q107432648,https://www.wikidata.org/wiki/Q107432648
+1,verify-dob-single-search,person-2dac281d7f91,Trần Công Phàn,1960-07-13,Q49055020,https://www.wikidata.org/wiki/Q49055020
+1,verify-dob-single-search,person-a72d99c1bd97,Trần Cẩm Tú,1961-08-25,Q10829281,https://www.wikidata.org/wiki/Q10829281
+1,verify-dob-single-pool,person-1b90489a6deb,Trần Hoàng Ngân,1964-10-26,Q10829301,https://www.wikidata.org/wiki/Q10829301
+1,verify-dob-single-search,person-31e392692acf,Trần Hồng Minh,1967-11-04,Q20026217,https://www.wikidata.org/wiki/Q20026217
+1,verify-dob-single-search,person-605a0ba8e9f2,Trần Hồng Nguyên,1969-05-26,Q30921901,https://www.wikidata.org/wiki/Q30921901
+1,verify-dob-single-pool,person-ee511487450b,Trần Hữu Hậu,1960-10-09,Q10829332,https://www.wikidata.org/wiki/Q10829332
+1,verify-dob-single-search,person-126db4673878,Trần Kim Yến,1969-08-03,Q30921328,https://www.wikidata.org/wiki/Q30921328
+1,verify-dob-single-search,person-679600f8fca9,Trần Ngọc Khánh,1964-11-14,Q30920689,https://www.wikidata.org/wiki/Q30920689
+1,verify-dob-single-search,person-a61c274a07ef,Trần Nhật Minh,1970-04-09,Q124713979,https://www.wikidata.org/wiki/Q124713979
+1,verify-dob-single-search,person-0a56281267cf,Trần Quang Phương,1961-05-06,Q24956399,https://www.wikidata.org/wiki/Q24956399
+1,verify-dob-single-search,person-1275f43f332f,Trần Quốc Nam,1971-12-27,Q107265355,https://www.wikidata.org/wiki/Q107265355
+1,verify-dob-single-pool,person-95e30304160b,Trần Thị Diệu Thúy,1977-03-08,Q10829504,https://www.wikidata.org/wiki/Q10829504
+1,verify-dob-single-search,person-921f745fbf4e,Trần Thị Quỳnh,1993-01-23,Q10829525,https://www.wikidata.org/wiki/Q10829525
+1,verify-dob-single-search,person-d345c73ad148,Trần Thị Thu Hằng,1982-03-11,Q89728678,https://www.wikidata.org/wiki/Q89728678
+1,verify-dob-single-search,person-701e3f237fdc,Trần Việt Anh,1975-10-22,Q116825814,https://www.wikidata.org/wiki/Q116825814
+1,verify-dob-single-pool,person-862733b50268,Trần Văn Thức,1969-12-20,Q10829626,https://www.wikidata.org/wiki/Q10829626
+1,verify-dob-single-pool,person-a9276db99138,Trần Văn Tuấn,1970-06-03,Q10829633,https://www.wikidata.org/wiki/Q10829633
+1,verify-dob-single-search,person-36b3e5b29275,Trần Đình Chung,1967-08-25,Q109452118,https://www.wikidata.org/wiki/Q109452118
+1,verify-dob-single-search,person-26f1dccddc65,Tô Thị Bích Châu,1969-06-01,Q30921323,https://www.wikidata.org/wiki/Q30921323
+1,verify-dob-single-pool,person-4fa6ed1c93ce,Tô Văn Tám,1963-10-10,Q10831212,https://www.wikidata.org/wiki/Q10831212
+1,verify-dob-single-search,person-34c6f959b688,Tô Ái Vang,1975-05-29,Q47506365,https://www.wikidata.org/wiki/Q47506365
+1,verify-dob-single-search,person-a7688fad5657,U Huấn,1980-01-22,Q109672424,https://www.wikidata.org/wiki/Q109672424
+1,verify-dob-single-search,person-0a53a1ce07e3,Văn Thị Bạch Tuyết,1976-06-16,Q30921330,https://www.wikidata.org/wiki/Q30921330
+1,verify-dob-single-search,person-e5591eed1e7d,Vũ Hải Hà,1969-03-01,Q30921776,https://www.wikidata.org/wiki/Q30921776
+1,verify-dob-single-search,person-ee81bf561362,Vũ Hải Quân,1974-08-01,Q109440061,https://www.wikidata.org/wiki/Q109440061
+1,verify-dob-single-search,person-72fb61a58093,Vũ Hồng Thanh,1962-04-19,Q30921400,https://www.wikidata.org/wiki/Q30921400
+1,verify-dob-single-search,person-0ab7c2f57c50,Vũ Hồng Văn,1976-02-03,Q109439518,https://www.wikidata.org/wiki/Q109439518
+1,verify-dob-single-search,person-7eccd5f3fd77,Vũ Thanh Chương,1968-05-09,Q86012870,https://www.wikidata.org/wiki/Q86012870
+1,verify-dob-single-search,person-7debdf1a07c0,Vũ Thị Lưu Mai,1972-08-22,Q30921502,https://www.wikidata.org/wiki/Q30921502
+1,verify-dob-single-search,person-7c0146724b06,Vũ Xuân Hùng,1967-05-06,Q30921677,https://www.wikidata.org/wiki/Q30921677
+1,verify-dob-single-pool,person-18ffe7a6e7bd,Vương Đình Huệ,1957-03-15,Q2595973,https://www.wikidata.org/wiki/Q2595973
+1,verify-dob-single-search,person-93dd006a6990,Y Thanh Hà Niê Kđăm,1973-12-23,Q65172375,https://www.wikidata.org/wiki/Q65172375
+1,verify-dob-single-search,person-19238f03a8f5,Y Vinh Tơr,1976-08-16,Q109679197,https://www.wikidata.org/wiki/Q109679197
+1,verify-dob-single-pool,person-9e31421f44a9,Đinh Công Sỹ,1979-11-25,Q10840090,https://www.wikidata.org/wiki/Q10840090
+1,verify-dob-single-search,person-313764e52a82,Điểu Huỳnh Sang,1980-12-25,Q30921892,https://www.wikidata.org/wiki/Q30921892
+1,verify-dob-single-search,person-59b7154e702a,Đoàn Thị Hảo,1966-12-28,Q30921730,https://www.wikidata.org/wiki/Q30921730
+1,verify-dob-single-search,person-f6e3aa8c6759,Đoàn Thị Thanh Mai,1971-11-13,Q47506301,https://www.wikidata.org/wiki/Q47506301
+1,verify-dob-single-search,person-a59f6ce101d3,Đào Chí Nghĩa,1982-06-12,Q118251030,https://www.wikidata.org/wiki/Q118251030
+1,verify-dob-single-search,person-b3ee2fbef5fa,Đào Hồng Lan,1971-07-23,Q49081097,https://www.wikidata.org/wiki/Q49081097
+1,verify-dob-single-search,person-6363c4cb1daf,Đặng Thuần Phong,1964-07-08,Q30921582,https://www.wikidata.org/wiki/Q30921582
+1,verify-dob-single-search,person-8ae901d0aa57,Đặng Xuân Phương,1974-11-25,Q30922070,https://www.wikidata.org/wiki/Q30922070
+1,verify-dob-single-search,person-cc0b845b9f86,Đỗ Mạnh Hiến,1969-11-10,Q109743824,https://www.wikidata.org/wiki/Q109743824
+1,verify-dob-single-search,person-b4d2b1b37b56,Đỗ Ngọc Thịnh,1960-01-10,Q30921928,https://www.wikidata.org/wiki/Q30921928
+1,verify-dob-single-search,person-82ffb7e63ca8,Đỗ Quang Thành,1965-10-19,Q30921906,https://www.wikidata.org/wiki/Q30921906
+1,verify-dob-single-search,person-ff956b428900,Đỗ Thanh Bình,1967-03-15,Q97162445,https://www.wikidata.org/wiki/Q97162445
+1,verify-dob-single-search,person-e90cd319b5d8,Đỗ Thị Lan,1967-11-17,Q47506364,https://www.wikidata.org/wiki/Q47506364
+1,verify-dob-single-search,person-89e40afa2844,Đỗ Thị Thu Hằng,1971-06-07,Q30921772,https://www.wikidata.org/wiki/Q30921772
+1,verify-dob-single-search,person-233c00693447,Đỗ Tiến Sỹ,1965-11-02,Q24957814,https://www.wikidata.org/wiki/Q24957814
+1,verify-dob-single-search,person-4ca19919eca7,Đỗ Văn Yên,1968-07-10,Q118251176,https://www.wikidata.org/wiki/Q118251176
+1,verify-dob-single-search,person-10c498d8f713,Đỗ Đức Duy,1970-05-20,Q30921991,https://www.wikidata.org/wiki/Q30921991
+1,verify-dob-single-search,person-8ce51438b513,Đỗ Đức Hồng Hà,1969-08-30,Q30921480,https://www.wikidata.org/wiki/Q30921480
+2,disambiguate-multi,person-0e57ac001720,Dương Ngọc Hải,1967-02-03,Q30923886 Q16542659,https://www.wikidata.org/wiki/Q30923886
+2,disambiguate-multi,person-1bf388729db4,Dương Văn An,1971-02-15,Q5315885 Q30924063,https://www.wikidata.org/wiki/Q5315885
+2,disambiguate-multi,person-aa25178cac85,Dương Văn Thái,1970-07-22,Q86006845 Q86006843,https://www.wikidata.org/wiki/Q86006845
+2,disambiguate-multi,person-a698afae2ce1,Hoàng Văn Cường,1963-01-01,Q10771217 Q30923901,https://www.wikidata.org/wiki/Q10771217
+2,disambiguate-multi,person-46097f5692b8,Lê Anh Tuấn,1976-02-23,Q30924004 Q10787563 Q139386669,https://www.wikidata.org/wiki/Q30924004
+2,disambiguate-multi,person-ac315242661a,Lê Hoài Trung,1961-04-27,Q10787630 Q132529172,https://www.wikidata.org/wiki/Q10787630
+2,disambiguate-multi,person-1a343eb1ce11,Lê Quang Tùng,1971-10-30,Q47506391 Q6507551,https://www.wikidata.org/wiki/Q47506391
+2,disambiguate-multi,person-5ef4be00680f,Lê Quang Đạo,1971-03-23,Q6507548 Q98132926,https://www.wikidata.org/wiki/Q6507548
+2,disambiguate-multi,person-3d04eca733e4,Lê Quân,1974-08-13,Q30921476 Q90725181,https://www.wikidata.org/wiki/Q30921476
+2,disambiguate-multi,person-ea5d2c902f1d,Nguyễn Quốc Hùng,1969-04-19,Q136339545 Q10799443 Q30921477 Q136449747,https://www.wikidata.org/wiki/Q136339545
+2,disambiguate-multi,person-448e76826a18,Nguyễn Hữu Chính,1963-11-07,Q10799155 Q30923976 Q6672778,https://www.wikidata.org/wiki/Q10799155
+2,disambiguate-multi,person-bc57fd7e2f7c,Nguyễn Hữu Toàn,1968-10-30,Q47506313 Q124310174,https://www.wikidata.org/wiki/Q47506313
+2,disambiguate-multi,person-099b38e0f0bd,Nguyễn Kim Tuyến,1977-12-10,Q10800612 Q30922047,https://www.wikidata.org/wiki/Q10800612
+2,disambiguate-multi,person-e6137a0cdf14,Nguyễn Minh Hoàng,1960-05-16,Q10799277 Q30923954,https://www.wikidata.org/wiki/Q10799277
+2,disambiguate-multi,person-160d71982db5,Nguyễn Minh Quang,1969-06-29,Q10799285 Q10799286,https://www.wikidata.org/wiki/Q10799285
+2,disambiguate-multi,person-26d8b03c9ccd,Nguyễn Minh Đức,1969-07-19,Q10527507 Q30923952 Q20025980 Q100542645 Q94518618 Q96640356,https://www.wikidata.org/wiki/Q10527507
+2,disambiguate-multi,person-e3c8b79d7bac,Nguyễn Mạnh Cường,1967-01-14,Q10799294 Q30923937 Q124719303 Q135103116 Q80826490,https://www.wikidata.org/wiki/Q10799294
+2,disambiguate-multi,person-e9b50fe5ea9c,Nguyễn Phú Cường,1967-06-19,Q27793240 Q24957809,https://www.wikidata.org/wiki/Q27793240
+2,disambiguate-multi,person-2b941bc5e2c0,Nguyễn Thành Công,1984-07-10,Q47506333 Q124397381,https://www.wikidata.org/wiki/Q47506333
+2,disambiguate-multi,person-484b0cc80246,Nguyễn Thị Hà,1990-12-29,Q30921995 Q61128775 Q140010067,https://www.wikidata.org/wiki/Q30921995
+2,disambiguate-multi,person-452fa099631e,Nguyễn Thị Lan Anh,1981-05-18,Q61132025 Q61129977 Q85866727,https://www.wikidata.org/wiki/Q61132025
+2,disambiguate-multi,person-9c90afe0c182,Nguyễn Thị Thủy,1977-12-15,Q30090896 Q2672717 Q98461658,https://www.wikidata.org/wiki/Q30090896
+2,disambiguate-multi,person-0627128b70a9,Nguyễn Thị Xuân,1967-10-25,Q30921212 Q85866735 Q90218932,https://www.wikidata.org/wiki/Q30921212
+2,disambiguate-multi,person-3475dc8e32e8,Nguyễn Trường Giang,1971-08-07,Q30922103 Q89422432,https://www.wikidata.org/wiki/Q30922103
+2,disambiguate-multi,person-68ef5867a16e,Nguyễn Tuấn Anh,1975-08-11,Q16158166 Q10834328 Q47506299 Q30924038 Q86010547 Q91411762 Q96129950 Q94525461,https://www.wikidata.org/wiki/Q16158166
+2,disambiguate-multi,person-92624a74bec9,Nguyễn Tuấn Anh,1964-08-23,Q16158166 Q10834328 Q47506299 Q30924038 Q86010547 Q91411762 Q96129950 Q94525461,https://www.wikidata.org/wiki/Q16158166
+2,disambiguate-multi,person-1494dc37e1b5,Nguyễn Việt Hà,1985-12-03,Q18459941 Q61100333,https://www.wikidata.org/wiki/Q18459941
+2,disambiguate-multi,person-ba4f4c3d41e1,Nguyễn Việt Thắng,1972-03-13,Q7023058 Q30924034 Q130044724,https://www.wikidata.org/wiki/Q7023058
+2,disambiguate-multi,person-76c3c32148f1,Nguyễn Văn Cảnh,1977-12-07,Q114831379 Q10793859 Q30923915,https://www.wikidata.org/wiki/Q114831379
+2,disambiguate-multi,person-58978587e6f1,Nguyễn Văn Danh,1962-07-12,Q248849 Q25417949 Q86010559 Q30921699,https://www.wikidata.org/wiki/Q248849
+2,disambiguate-multi,person-40c3cd9580f5,Nguyễn Văn Dành,1966-11-11,Q30921699 Q248849 Q25417949 Q86010559,https://www.wikidata.org/wiki/Q30921699
+2,disambiguate-multi,person-7aa408dbe500,Nguyễn Văn Dương,1967-12-03,Q49054454 Q107304730,https://www.wikidata.org/wiki/Q49054454
+2,disambiguate-multi,person-9153fa6bd2a3,Nguyễn Văn Hiển,1974-02-16,Q10799904 Q7023019,https://www.wikidata.org/wiki/Q10799904
+2,disambiguate-multi,person-26d693f228a2,Nguyễn Văn Hận,1971-08-19,Q118250009 Q136434361,https://www.wikidata.org/wiki/Q118250009
+2,disambiguate-multi,person-23b924c9716b,Ngô Chí Cường,1967-09-11,Q704291 Q30922015,https://www.wikidata.org/wiki/Q704291
+2,disambiguate-multi,person-9839becd02f6,Trần Thị Hiền,1974-12-22,Q10829505 Q10829506,https://www.wikidata.org/wiki/Q10829505
+2,disambiguate-multi,person-b17e117e6536,Trương Quốc Huy,1970-06-19,Q3541424 Q109421964,https://www.wikidata.org/wiki/Q3541424
+2,disambiguate-multi,person-cb3faca6947d,Trương Thị Ngọc Ánh,1966-10-10,Q109442141 Q118250897,https://www.wikidata.org/wiki/Q109442141
+2,disambiguate-multi,person-ec3b0b9ac0cb,Trần Anh Tuấn,1974-07-02,Q47506274 Q16611818 Q61813779,https://www.wikidata.org/wiki/Q47506274
+2,disambiguate-multi,person-0ba462f01fcf,Trần Quang Minh,1976-11-25,Q61128947 Q86012447,https://www.wikidata.org/wiki/Q61128947
+2,disambiguate-multi,person-35bd6142cd2d,Trần Quốc Tuấn,1970-02-08,Q511375 Q138427325 Q49055799,https://www.wikidata.org/wiki/Q511375
+2,disambiguate-multi,person-39bb794b914f,Trần Văn Lâm,1970-01-27,Q5083022 Q111510957,https://www.wikidata.org/wiki/Q5083022
+2,disambiguate-multi,person-3a1c990d944d,Tạ Minh Tâm,1978-11-07,Q10831489 Q30924069,https://www.wikidata.org/wiki/Q10831489
+2,disambiguate-multi,person-af7c8040a73a,Đinh Tiến Dũng,1961-05-10,Q10840142 Q10752078,https://www.wikidata.org/wiki/Q10840142
+2,disambiguate-multi,person-45bbe7f24148,Đặng Quốc Khánh,1976-09-02,Q25418084 Q25417849 Q64785684,https://www.wikidata.org/wiki/Q25418084
+2,disambiguate-multi,person-99702bbf5f39,Đặng Xuân Phong,1972-07-08,Q47506287 Q10841615,https://www.wikidata.org/wiki/Q47506287
+3,create,person-7317b423cb6b,Bùi Huyền Mai,1975-09-03,,
+3,create,person-0521148fa669,Bùi Thị Quỳnh Thơ,1976-08-28,,
+3,create,person-9a6e5719c659,Bùi Xuân Thống,1976-04-17,,
+3,create,person-1ccf05ee1b60,Bế Minh Đức,1974-02-15,,
+3,create,person-2a45b07b48e9,Chau Chắc,1971-05-06,,
+3,create,person-ba275763e633,Chu Thị Hồng Thái,1984-11-21,,
+3,create,person-6a46de7118ea,Cầm Thị Mẫn,1970-11-12,,
+3,create,person-da850fb8b3ab,Dương Khắc Mai (Dương Ngọc Mai),1969-06-09,,
+3,create,person-42b64f61d814,Dương Thanh Bình (Dương Hoàng Du),1961-08-08,,
+3,create,person-64ea09fa15f9,Dương Tấn Quân,1985-10-21,,
+3,create,person-cbd3288cc87c,Hoàng Thị Thu Hiền,1975-11-10,,
+3,create,person-5140b96e745d,Hoàng Văn Bình (Hoàng Thanh Bình),1970-11-30,,
+3,create,person-6017cc262b71,Huỳnh Thanh Phương,1978-05-04,,
+3,create,person-f662ad6334f8,Hà Thọ Bình,1968-12-04,,
+3,create,person-7ed7c1a3f0d9,Hà Ánh Phượng,1991-11-03,,
+3,create,person-1387516e3453,Hồ Thị Minh,1976-09-23,,
+3,create,person-016906b5d4d3,Khang Thị Mào,1986-09-05,,
+3,create,person-b45afbf760bf,Khương Thị Mai,1966-09-08,,
+3,create,person-ea879cc3958c,K’ Nhiễu,1972-07-13,,
+3,create,person-4a6aff745af0,Lê Thị Hà (Lê Thu Hà),1968-11-26,,
+3,create,person-177102804431,Lê Thị Ngọc Linh,1982-07-22,,
+3,create,person-123814431f38,Lê Thị Thanh Xuân,1977-12-15,,
+3,create,person-087fc0136999,Lò Thị Luyến,1974-02-02,,
+3,create,person-c6c73653c47f,Lý Anh Thư,1976-05-05,,
+3,create,person-2b1be5f0ea20,Lý Đức (Thượng tọa Lý Minh Đức),1970-04-24,,
+3,create,person-38ea4833d176,Lưu Bá Mạc,1980-10-21,,
+3,create,person-d47682fa57f2,Lương Công Quyết (Hòa thượng Thích Thanh Quyết),1962-06-15,,
+3,create,person-052cf34d315b,Lương Văn Hùng,1976-06-10,,
+3,create,person-e3a95850e4c1,Nguyễn Chu Hồi,1952-05-15,,
+3,create,person-f138993ca4a9,Nguyễn Duy Thanh,1983-03-12,,
+3,create,person-610b740fcae4,Nguyễn Hoàng Bảo Trân,1975-06-22,,
+3,create,person-7ec748f9b4b0,Nguyễn Hoàng Uyên,1976-06-24,,
+3,create,person-d5a45f133c78,Nguyễn Huy Thái (Y Lan),1968-03-13,,
+3,create,person-bb21895c36cf,Nguyễn Quang Huân,1964-12-20,,
+3,create,person-a8a18176ded1,Nguyễn Thị Như Ý (VY),1973-11-02,,
+3,create,person-bdc6ae8be0e9,Nguyễn Thị Quyên Thanh,1978-10-19,,
+3,create,person-db9fbfd3a20f,"Nguyễn Thị Sửu (Nguyễn Thị Hường, Kê Sửu)",1973-11-09,,
+3,create,person-1a97b070a768,Nguyễn Thị Thu Dung,1969-08-04,,
+3,create,person-294ece5b5b80,Nguyễn Thị Thúy Ngọc,1982-07-22,,
+3,create,person-283cdbe218f6,Nguyễn Thị Yến (Nguyễn Thị Phấn),1965-08-14,,
+3,create,person-e74b09e84f09,Nguyễn Tiến Thiện (Thượng tọa Thích Đức Thiện),1966-04-05,,
+3,create,person-11a9b585d807,Nguyễn Tuấn Thịnh,1971-04-22,,
+3,create,person-e659a98a66db,Nguyễn Văn Riễn (Linh mục Nguyễn Văn Riễn),1955-12-20,,
+3,create,person-0483aee6100f,Nguyễn Văn Thi,1968-04-11,,
+3,create,person-e0f13fb7d207,Nguyễn Văn Thạnh (Lâm),1972-08-20,,
+3,create,person-8d68e56c2ba4,Ngô Trung Thành,1975-01-29,,
+3,create,person-eee304557141,Nàng Xô Vi,1996-02-11,,
+3,create,person-e44189ed88ac,Phan Viết Lượng,1967-02-01,,
+3,create,person-cbcc44cb3542,Phan Văn Xựng,1967-03-07,,
+3,create,person-d97312bcaa1b,Phạm Thị Hồng Diễm,1979-01-01,,
+3,create,person-5c41f97478c9,Phạm Thị Kiều,1981-10-20,,
+3,create,person-9518776078cf,Phạm Thị Xuân,1991-10-11,,
+3,create,person-ff2ad8dfbec5,Phạm Trọng Nhân (Út Nhân),1972-03-20,,
+3,create,person-c6ea60fabf24,Quàng Thị Nguyệt,1997-11-01,,
+3,create,person-a37db7105189,Rơ Châm H′Phik,1979-02-15,,
+3,create,person-7ebf70495f70,Tao Văn Giót,1990-08-16,,
+3,create,person-690950fda331,Thổ Út,1970-04-26,,
+3,create,person-191cd7d53c45,Trương Xuân Cừ,1960-10-05,,
+3,create,person-0b7ecbcac7c2,Trần Khánh Thu,1982-11-26,,
+3,create,person-21033d4b40ed,Trần Quốc Quân,1987-10-02,,
+3,create,person-fd248851ae2e,Trần Thị Thanh Lam,1979-09-29,,
+3,create,person-6c268422b3ee,Trần Văn Nam (Trần Quốc Tuấn),1963-08-30,,
+3,create,person-32c858d6ce80,Trần Văn Tiến,1962-05-05,,
+3,create,person-943628a4a896,Trịnh Minh Bình,1977-08-22,,
+3,create,person-abda1f507a14,Trịnh Thị Tú Anh,1980-08-17,,
+3,create,person-3d2cdee16aa3,Võ Văn Kim (Vũ Trọng Kim),1953-03-23,,
+3,create,person-3dc511ea241c,Vũ Huy Khánh,1974-07-02,,
+3,create,person-49df5cb7ea20,Vũ Thị Liên Hương,1972-06-01,,
+3,create,person-61f178597cac,Vương Thị Hương,1988-09-28,,
+3,create,person-61bf5afe3ebc,Âu Thị Mai,1978-03-25,,
+3,create,person-94a6f7fa305a,Đinh Ngọc Minh,1967-05-03,,
+3,create,person-6e96155f2fb5,Đinh Thị Ngọc Dung,1985-11-26,,
+3,create,person-66d1d947c34b,Đinh Thị Phương Lan,1976-06-05,,
+3,create,person-4ee4265acedb,Đoàn Thị Lê An,1979-02-26,,
+3,create,person-cb89f2621339,Đàng Thị Mỹ Hương,1973-06-24,,
+3,create,person-fdd6c0b120d3,Đặng Minh Châu (Hòa thượng Thích Bảo Nghiêm),1956-12-27,,
+3,create,person-8a4c208af5ce,Đặng Thị Bảo Trinh,1986-03-28,,
+3,create,person-3c5e56e797de,Đỗ Huy Khánh,1977-05-30,,
