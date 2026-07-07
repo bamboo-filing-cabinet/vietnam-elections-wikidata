@@ -1,2 +1,2 @@
 person_id,name,wikidata_qid,status,method,verified_on,notes
-person-03d90edf2989,Phan Văn Giang,Q20026119,confirmed,manual name+DOB,2026-07-06,"DOB corrected to 1960-10-14 and sourced. Our 'birthplace' field is quê quán (Nam Định) -> P66 ancestral home, not P19. Actual nơi sinh unresolved (sources conflict; WD P19=Thái Nguyên only imported from it.wikipedia); our data has no nơi sinh field, so leave P19."
+person-03d90edf2989,Phan Văn Giang,Q20026119,confirmed+enriched,manual name+DOB,2026-07-06,"Match confirmed via DOB (1960-10-14). Enriched: added P172=Q216151 (Kinh), P66=Q36907 (Nam Định, quê quán); sourced NA15 P39 statement (CEMA bulletin) and fixed vote qualifiers to P1111=309433 (count) + P1107=0.8868 (proportion). P19 left as-is (our data has no nơi sinh)."
