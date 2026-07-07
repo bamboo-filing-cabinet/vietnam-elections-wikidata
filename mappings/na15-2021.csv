@@ -1,2 +1,2 @@
 person_id,name,wikidata_qid,status,method,verified_on,notes
-person-03d90edf2989,Phan Văn Giang,Q20026119,confirmed,manual name+DOB,2026-07-06,"DOB corrected to 1960-10-14 and sourced to candidate-list PDF; NA15 P39 statement already present. Flag: WD place of birth (P19=Thái Nguyên) conflicts with source birthplace Nam Định — to review."
+person-03d90edf2989,Phan Văn Giang,Q20026119,confirmed,manual name+DOB,2026-07-06,"DOB corrected to 1960-10-14 and sourced. P19 place of birth (Thái Nguyên) is correct nơi sinh — our 'birthplace' field is quê quán (Nam Định), maps to P66 ancestral home, not P19."
