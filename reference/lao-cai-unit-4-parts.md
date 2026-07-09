@@ -51,7 +51,7 @@ Where the term qualifier may live on an electoral-unit item:
 - **Q140469765 (unit 4)** is a single-term (16th NA) item, so its 25 parts carry
   **no** per-part P2937 — that is correct, not a gap. The term qualifier sits on
   P1342 = 2.
-- **Q140469739 (unit 2, pre-2025 merger)** is multi-term, so its P527 parts are correctly
+- **Q140469739 (unit 2, pre-2025 reform)** is multi-term, so its P527 parts are correctly
   qualified with P2937. Its **P131 = Q36446 still carries an invalid P2937
   qualifier that should be removed** (manual Wikidata edit).
 
