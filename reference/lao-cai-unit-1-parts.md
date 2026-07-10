@@ -48,7 +48,7 @@ pre-reform district it sat under; **new parent for every row = Lào Cai `Q36446`
 | 9 | Yên Thành | xã | Q10838151 | huyện Yên Bình | Q8052180 | Q8052180 (stale) |
 | 10 | Khánh Hòa | xã | Q10779585 | huyện Lục Yên | Q6695817 | Q6695817 (stale) |
 | 11 | Lâm Thượng | xã | Q10787498 | huyện Lục Yên | Q6695817 | Q6695817 (stale) |
-| 12 | Lục Yên | xã | — | huyện Lục Yên | Q6695817 | ⚠️ no post-reform item (only the old huyện Q6695817) |
+| 12 | Lục Yên | xã | Q140480524 | huyện Lục Yên | Q6695817 | Q36446 ✓ (new item, issue #7; P1889 "different from" ≠ Q6695817) |
 | 13 | Mường Lai | xã | Q10796388 | huyện Lục Yên | Q6695817 | Q6695817 (stale) |
 | 14 | Phúc Lợi | xã | Q10806228 | huyện Lục Yên | Q6695817 | Q6695817 (stale) |
 | 15 | Tân Lĩnh | xã | Q10830607 | huyện Lục Yên | Q6695817 | Q6695817 (stale) |
@@ -63,8 +63,11 @@ Notes:
   phường 1–4) — pre-reform types, not yet updated to the Res 85 phường/xã.
 - Row 16 Hưng Khánh: `P131` is unset on Wikidata; huyện Trấn Yên is inferred from
   the pre-reform geography, not verified from WD — treat as tentative.
-- 19/20 have a post-reform commune/ward item; **Lục Yên** does not (only the old
-  huyện `Q6695817`) — create a new xã item or skip in P527.
+- 20/20 now have a post-reform commune/ward item. **Lục Yên** `Q140480524` was
+  created (issue #7) to fill the last gap — previously the only "Lục Yên" on WD
+  was the old huyện `Q6695817`. The two are kept distinct: the new xã carries
+  `P1889` (different from) → `Q6695817`, and the old huyện is now marked dissolved
+  (`P576` = 2025, `different from` → `Q140480524`). Unit P527 is complete at 20/20.
 
 P527 usage: add each `QID` as `has part(s)` on Q140478357; the P2937 (16th NA)
 qualifier is optional for this single-term current item.
