@@ -1,5 +1,7 @@
 # Lào Cai electoral unit No. 1 — constituent parts
 
+Wikidata item: **Q140478357** (created 2026-07-09).
+
 Verified reconciliation of the constituents of **Đơn vị bầu cử số 1, tỉnh Lào Cai**
 (merged province, post-2025 reform) for the 16th National Assembly (2026).
 
